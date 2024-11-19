@@ -19,6 +19,4 @@ https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/dbg
 
 HTML IPTV Player with EPG viewer for M3U8 playlist
 
-https://dbghelp.github.io/player.html?file=<link to playlist.m3u8\>
-
-https://dbghelp.github.io/player.html?file=https://dbghelp.github.io/playlist.m3u8
+https://github.com/dbghelp/html-iptv-player

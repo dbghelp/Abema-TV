@@ -12,171 +12,176 @@ https://ds-linear-abematv.akamaized.net/channel/news-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png", ABEMA SPECIALチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HkDH132PSZ20ZM59kz+tsw==","kid":"U68W+aYcQROYuD8ks+LA2A=="},{"kty":"oct","k":"HkDH132PSZ20ZM59kz+tsw==","kid":"U68W+aYcQROYuD8ks+LA2A=="},{"kty":"oct","k":"YZ+JUMY7QgqLz6mdmUht/Q==","kid":"Pgde1RDYQzK2k+5hYhM8KQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8bWmnfn3RDK5ZObbuRoO1A==","kid":"94cKi2FVQnukLxTHrqPqzA=="},{"kty":"oct","k":"HkDH132PSZ20ZM59kz+tsw==","kid":"U68W+aYcQROYuD8ks+LA2A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cDO6jf+OSvSlh5NTpCmQ8A==","kid":"xwF9zD/1QDiGLaS/Ug/Krw=="},{"kty":"oct","k":"H+udpPc8QYagEY2wN2yv6Q==","kid":"3fMQE1U2Q+OUBvcyfjzFsw=="},{"kty":"oct","k":"xT333QUlQVud9zsdBfpFdw==","kid":"YG41XtoNR4Wme+YEbCEpcw=="},{"kty":"oct","k":"+d68uRaJTlm8upRQpG0G7A==","kid":"o/FgolWrQhe9mpr4g2qX8w=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RWNBFooLTPOAAh8p7ujgOA==","kid":"oP2ORBnvRACKXrWh/5n4QA=="},{"kty":"oct","k":"+d68uRaJTlm8upRQpG0G7A==","kid":"o/FgolWrQhe9mpr4g2qX8w=="},{"kty":"oct","k":"vQMIliMgTxa9Ty++UH2SpA==","kid":"hc2xAXItTISgMCtavM1j8A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png", ABEMA アニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8CyovnDpTdSMSIkZxEePTQ==","kid":"PAr6db+4RsKsN2KkNiXQrw=="},{"kty":"oct","k":"HXtXJQCiSVu/E0XZXBTT/w==","kid":"WqmIxL4fRvWkYYwZfkrGow=="},{"kty":"oct","k":"0DEMglYiThK5bzl1VUpqkw==","kid":"K79LHkXSSyCmDZZ+L1Wz8g=="},{"kty":"oct","k":"REk65Cb0QY6Q/GY3kj1O9Q==","kid":"5URG0EkzSEmLwIvpqjdPkw=="},{"kty":"oct","k":"jHt8/kizTOK6Bp7F38CspQ==","kid":"dxBmaUyKRheB1Zo5IRuzYQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"APBnbp0wSvKIdKAo5WNiVQ==","kid":"3P6frfwQSkSCl1ylteSgjQ=="},{"kty":"oct","k":"HXtXJQCiSVu/E0XZXBTT/w==","kid":"WqmIxL4fRvWkYYwZfkrGow=="},{"kty":"oct","k":"0DEMglYiThK5bzl1VUpqkw==","kid":"K79LHkXSSyCmDZZ+L1Wz8g=="},{"kty":"oct","k":"REk65Cb0QY6Q/GY3kj1O9Q==","kid":"5URG0EkzSEmLwIvpqjdPkw=="},{"kty":"oct","k":"jHt8/kizTOK6Bp7F38CspQ==","kid":"dxBmaUyKRheB1Zo5IRuzYQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png", ABEMA アニメチャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QyQ8baeBQRO7xmfV4a2uUQ==","kid":"se70h22ZR9OCOzm3TCS7Ww=="},{"kty":"oct","k":"kTbfSDKITUSkRA12xNW0Dg==","kid":"oC+TIGuOTDiwbQaoJJfoDg=="},{"kty":"oct","k":"caRvFxNfRNSGK14HGO81pA==","kid":"LjtQIuoJS2SIRkAfxtsHIw=="},{"kty":"oct","k":"yFOFNU7FT3iSquKObWJ7dw==","kid":"kAJDWrWzSa6Pe4laH/VGaQ=="},{"kty":"oct","k":"yFOFNU7FT3iSquKObWJ7dw==","kid":"kAJDWrWzSa6Pe4laH/VGaQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yFOFNU7FT3iSquKObWJ7dw==","kid":"kAJDWrWzSa6Pe4laH/VGaQ=="},{"kty":"oct","k":"yFOFNU7FT3iSquKObWJ7dw==","kid":"kAJDWrWzSa6Pe4laH/VGaQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-anime-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png", ドラマ映画チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TRPVWHtiRuOaIF5OChT1bg==","kid":"mniD8SihRGGYfcxm7nGKow=="},{"kty":"oct","k":"TRPVWHtiRuOaIF5OChT1bg==","kid":"mniD8SihRGGYfcxm7nGKow=="},{"kty":"oct","k":"ucCszXVhQmqVaFtRe0/p7A==","kid":"l8eLtkZUSfCeQrehzxA8/w=="},{"kty":"oct","k":"jvp8RI2fQ8KsfQk+i3x9vA==","kid":"87hRGiOhQIKPX0z0JuzJgQ=="},{"kty":"oct","k":"oL4E3yfLQqayqjIbxoG8/Q==","kid":"OxdVVF4CTuem5ZupmbI1/w=="},{"kty":"oct","k":"gV4GYdj5R2igpXhoz0wPqA==","kid":"/SvfODfaQ5eWzYM6WXf3/Q=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+d68uRaJTlm8upRQpG0G7A==","kid":"o/FgolWrQhe9mpr4g2qX8w=="},{"kty":"oct","k":"+d68uRaJTlm8upRQpG0G7A==","kid":"o/FgolWrQhe9mpr4g2qX8w=="},{"kty":"oct","k":"xT333QUlQVud9zsdBfpFdw==","kid":"YG41XtoNR4Wme+YEbCEpcw=="},{"kty":"oct","k":"TRPVWHtiRuOaIF5OChT1bg==","kid":"mniD8SihRGGYfcxm7nGKow=="},{"kty":"oct","k":"ucCszXVhQmqVaFtRe0/p7A==","kid":"l8eLtkZUSfCeQrehzxA8/w=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"doGwhUoyQNKppy7yToeXkA==","kid":"fLUrBjb4ToKTHxP4UJ29aQ=="},{"kty":"oct","k":"doGwhUoyQNKppy7yToeXkA==","kid":"fLUrBjb4ToKTHxP4UJ29aQ=="},{"kty":"oct","k":"r3dLO6J7QuOMqS/PpK+6kQ==","kid":"MkxzTpOiTpyGIpYYpFiBmw=="},{"kty":"oct","k":"k6QqD6xXTNyqKiuE7teEIA==","kid":"wzMXMFqXQnC3bGtIYwX9fg=="},{"kty":"oct","k":"QZ6DN1csTCekC1TVuubbbQ==","kid":"2sTVEUmkQuiPGcEgH2AKIA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EZ50ixLlT3WFEFj2BLwbfg==","kid":"7sKD154NSUOwSFRaYFqnFQ=="},{"kty":"oct","k":"EZ50ixLlT3WFEFj2BLwbfg==","kid":"7sKD154NSUOwSFRaYFqnFQ=="},{"kty":"oct","k":"gV4GYdj5R2igpXhoz0wPqA==","kid":"/SvfODfaQ5eWzYM6WXf3/Q=="},{"kty":"oct","k":"k6QqD6xXTNyqKiuE7teEIA==","kid":"wzMXMFqXQnC3bGtIYwX9fg=="},{"kty":"oct","k":"doGwhUoyQNKppy7yToeXkA==","kid":"fLUrBjb4ToKTHxP4UJ29aQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png", なつかしアニメ80's
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2R7YE4vxRZW9vHno/p0vrw==","kid":"fTpCMNWuQQu411feOK8cbQ=="},{"kty":"oct","k":"8S3t4kRCTMmwzHoo1oyw6A==","kid":"jcTivwrwS9qKl02B1nNprQ=="},{"kty":"oct","k":"EF5iiPB6R+urlMNDpZRBcw==","kid":"rRd2VYMJQdqUO5vp8VVqvg=="},{"kty":"oct","k":"8S3t4kRCTMmwzHoo1oyw6A==","kid":"jcTivwrwS9qKl02B1nNprQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uUDNrNUuSamvQ/EzRzaa/w==","kid":"n8RMF5eaTB6JxiELgzmz7A=="},{"kty":"oct","k":"8S3t4kRCTMmwzHoo1oyw6A==","kid":"jcTivwrwS9qKl02B1nNprQ=="},{"kty":"oct","k":"EF5iiPB6R+urlMNDpZRBcw==","kid":"rRd2VYMJQdqUO5vp8VVqvg=="},{"kty":"oct","k":"8S3t4kRCTMmwzHoo1oyw6A==","kid":"jcTivwrwS9qKl02B1nNprQ=="},{"kty":"oct","k":"2R7YE4vxRZW9vHno/p0vrw==","kid":"fTpCMNWuQQu411feOK8cbQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/80s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png", アニメSPECIALチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yZfnhhkmS62JRKxgcxIRsw==","kid":"AUf+9JN+RraETZW5C2h6aw=="},{"kty":"oct","k":"BjmmmJM4RbyFH1moki5Ocw==","kid":"QZQHKLNSQTeutBeeZfgqFw=="},{"kty":"oct","k":"BjmmmJM4RbyFH1moki5Ocw==","kid":"QZQHKLNSQTeutBeeZfgqFw=="},{"kty":"oct","k":"LJUVksqBTcukJjebRw12dw==","kid":"LBMS3DFoRyyoN83q6jUqjw=="},{"kty":"oct","k":"Xt51hf2IQf2GfLo4ay7k5A==","kid":"tI0fL6gkT8aPwe4EZy3oJg=="},{"kty":"oct","k":"Xt51hf2IQf2GfLo4ay7k5A==","kid":"tI0fL6gkT8aPwe4EZy3oJg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yZfnhhkmS62JRKxgcxIRsw==","kid":"AUf+9JN+RraETZW5C2h6aw=="},{"kty":"oct","k":"BjmmmJM4RbyFH1moki5Ocw==","kid":"QZQHKLNSQTeutBeeZfgqFw=="},{"kty":"oct","k":"LJUVksqBTcukJjebRw12dw==","kid":"LBMS3DFoRyyoN83q6jUqjw=="},{"kty":"oct","k":"Xt51hf2IQf2GfLo4ay7k5A==","kid":"tI0fL6gkT8aPwe4EZy3oJg=="},{"kty":"oct","k":"Xt51hf2IQf2GfLo4ay7k5A==","kid":"tI0fL6gkT8aPwe4EZy3oJg=="},{"kty":"oct","k":"LJUVksqBTcukJjebRw12dw==","kid":"LBMS3DFoRyyoN83q6jUqjw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus-7/manifest.mpd
 
 #EXTINF:-1  tvg-id="90s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png", なつかしアニメ90's
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Uoik3ipgQRCD4MvNy46ecw==","kid":"7fa1VXJpQjWfmHsmlNG6Ng=="},{"kty":"oct","k":"Uoik3ipgQRCD4MvNy46ecw==","kid":"7fa1VXJpQjWfmHsmlNG6Ng=="},{"kty":"oct","k":"Tn5LkQTWR9aGr8SDi3TIkQ==","kid":"JNZQsPdiQBCsw/6q/h3PlQ=="},{"kty":"oct","k":"rpV1eORvQOq1BVoQYXxvPA==","kid":"nB/1+xeITMid7YHWEheYAw=="},{"kty":"oct","k":"Uoik3ipgQRCD4MvNy46ecw==","kid":"7fa1VXJpQjWfmHsmlNG6Ng=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rpV1eORvQOq1BVoQYXxvPA==","kid":"nB/1+xeITMid7YHWEheYAw=="},{"kty":"oct","k":"Uoik3ipgQRCD4MvNy46ecw==","kid":"7fa1VXJpQjWfmHsmlNG6Ng=="},{"kty":"oct","k":"Tn5LkQTWR9aGr8SDi3TIkQ==","kid":"JNZQsPdiQBCsw/6q/h3PlQ=="},{"kty":"oct","k":"rpV1eORvQOq1BVoQYXxvPA==","kid":"nB/1+xeITMid7YHWEheYAw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/90s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="00s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png", なつかしアニメ00's
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fIgVahHTTf+tXSuP+1i6Mw==","kid":"MQp3mxpUSXmDmG0f/UZv0A=="},{"kty":"oct","k":"2rT4OJPYTcGGySIVtJmbYg==","kid":"LUAtrFniT36lzOrwLu+BDg=="},{"kty":"oct","k":"2rT4OJPYTcGGySIVtJmbYg==","kid":"LUAtrFniT36lzOrwLu+BDg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QNDHKBLdToGDekUk3Cm1Bg==","kid":"KuhjnCJhRwSbHwd42S8oTA=="},{"kty":"oct","k":"ztm7eWBASyKiFVA3zvz8ow==","kid":"BQw5HabHTLGkJt49LfjNSQ=="},{"kty":"oct","k":"2rT4OJPYTcGGySIVtJmbYg==","kid":"LUAtrFniT36lzOrwLu+BDg=="},{"kty":"oct","k":"7981aBw9RtmeYu8mqR+saQ==","kid":"rdCN3UOGRgqN5UWdJOhURA=="},{"kty":"oct","k":"ztm7eWBASyKiFVA3zvz8ow==","kid":"BQw5HabHTLGkJt49LfjNSQ=="},{"kty":"oct","k":"ztm7eWBASyKiFVA3zvz8ow==","kid":"BQw5HabHTLGkJt49LfjNSQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/00s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="precure" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/precure/logo.png", プリキュアチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O185uMrARa2zd7WyHIfT8A==","kid":"0PDTzq6FT9y4Ec8vlXpoug=="},{"kty":"oct","k":"hNz8S8fDSHy+7FVpPdnDPQ==","kid":"ANWRmwa3R+K/qCgil3LRxw=="},{"kty":"oct","k":"hNz8S8fDSHy+7FVpPdnDPQ==","kid":"ANWRmwa3R+K/qCgil3LRxw=="},{"kty":"oct","k":"hNz8S8fDSHy+7FVpPdnDPQ==","kid":"ANWRmwa3R+K/qCgil3LRxw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dTIbDpRbRgqmB75UeL91hg==","kid":"HVZIn9xISRuQp3E1c+CR4g=="},{"kty":"oct","k":"hNz8S8fDSHy+7FVpPdnDPQ==","kid":"ANWRmwa3R+K/qCgil3LRxw=="},{"kty":"oct","k":"YpxC9iU4ScaJRPTYv1niQQ==","kid":"tDONb1/XSoSiVjeA7wMgbg=="},{"kty":"oct","k":"hNz8S8fDSHy+7FVpPdnDPQ==","kid":"ANWRmwa3R+K/qCgil3LRxw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/precure/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gtWTK6iQQiS4c0IZdn/iiA==","kid":"rcofcC+nRfO8AlXc9RYpoA=="},{"kty":"oct","k":"CvgzyjZLRz+1GyiYHz/VcA==","kid":"3TtKImvFTZOYV/It9ADvUA=="},{"kty":"oct","k":"CvgzyjZLRz+1GyiYHz/VcA==","kid":"3TtKImvFTZOYV/It9ADvUA=="},{"kty":"oct","k":"CvgzyjZLRz+1GyiYHz/VcA==","kid":"3TtKImvFTZOYV/It9ADvUA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NAcSMMGeTpCqT6liIKFweg==","kid":"z++EjmhYRgWDbhOrH/gVLw=="},{"kty":"oct","k":"CvgzyjZLRz+1GyiYHz/VcA==","kid":"3TtKImvFTZOYV/It9ADvUA=="},{"kty":"oct","k":"CvgzyjZLRz+1GyiYHz/VcA==","kid":"3TtKImvFTZOYV/It9ADvUA=="},{"kty":"oct","k":"CvgzyjZLRz+1GyiYHz/VcA==","kid":"3TtKImvFTZOYV/It9ADvUA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png", ファミリーアニメ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uos2VBbsRdaVAvKU0Ux8XA==","kid":"5qYkbn7JQH2j3iasGuPs4w=="},{"kty":"oct","k":"uos2VBbsRdaVAvKU0Ux8XA==","kid":"5qYkbn7JQH2j3iasGuPs4w=="},{"kty":"oct","k":"U7RiSzKwSR29cq1FXGI6XQ==","kid":"9Bki+ntoSHOsCxkqdq572g=="},{"kty":"oct","k":"buwKPBR9QnCbLiENHobZSQ==","kid":"Obqnw2AuRsOgI5riovMOFw=="},{"kty":"oct","k":"chmq8JuUReeL91Zv8Ir07A==","kid":"SVFr+oVaRN2Xi9weis31SA=="},{"kty":"oct","k":"JlmXiPDrQsioLlBsmTDJxg==","kid":"12ZX0/u0SK6lHDO/XLonCg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1YpZ3SYJQA2dccj7ipiY7g==","kid":"bNU4b29VRU+zDN+6PRQu0Q=="},{"kty":"oct","k":"chmq8JuUReeL91Zv8Ir07A==","kid":"SVFr+oVaRN2Xi9weis31SA=="},{"kty":"oct","k":"JlmXiPDrQsioLlBsmTDJxg==","kid":"12ZX0/u0SK6lHDO/XLonCg=="},{"kty":"oct","k":"U7RiSzKwSR29cq1FXGI6XQ==","kid":"9Bki+ntoSHOsCxkqdq572g=="},{"kty":"oct","k":"dyxtb2JNQOyNbXOQL/6EaQ==","kid":"z4kAug0sTyiODs+xly61DQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/family-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png", ファミリーアニメ２
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g6TNS/hSQwSMLmEpvsosVw==","kid":"D+nzCrU+QxKQcp7OU9S7rg=="},{"kty":"oct","k":"qb23T9xyQfqDv2Sy9FJuYQ==","kid":"o9LWOeGDQ7eo3O/8/GP7Gw=="},{"kty":"oct","k":"qE4vjHTWT/yZgA1lQeMV5Q==","kid":"A51PcYb/SniI9IJe67R4eA=="},{"kty":"oct","k":"qb23T9xyQfqDv2Sy9FJuYQ==","kid":"o9LWOeGDQ7eo3O/8/GP7Gw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Loq57SCaT2OrUNUSdcbRhw==","kid":"iLs7vynITXKFCZ+w7Gf0Jg=="},{"kty":"oct","k":"qE4vjHTWT/yZgA1lQeMV5Q==","kid":"A51PcYb/SniI9IJe67R4eA=="},{"kty":"oct","k":"qb23T9xyQfqDv2Sy9FJuYQ==","kid":"o9LWOeGDQ7eo3O/8/GP7Gw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/family-anime-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png", 韓国・中国ドラマチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LWJCRWURRG2WnxniA/TXCA==","kid":"3i7C+Sg0ReGbXymPPMvi+g=="},{"kty":"oct","k":"qdxdZoFMRSCVlFqpuTpLxQ==","kid":"aJI0/iuRRjidvFU1fPzJmA=="},{"kty":"oct","k":"gMt5pcvzQLqBE3jNXwsQgw==","kid":"0gN9eMfcT6+XA138iQq54A=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jqb68oO6SRmwLRuxwzz/6Q==","kid":"wq7tPkq8SVi0jKRhdtoU7g=="},{"kty":"oct","k":"IFfekSCPRyqchAoqEE1LOg==","kid":"3GCkDgJGT1+CTupqpkMong=="},{"kty":"oct","k":"g53vo++XQiCsHwSAY4uhNw==","kid":"WX+O0IRcSk+KOiwMQyTGOw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-love-comedy" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-love-comedy/logo.png", 韓国ラブコメディ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MOungPf0QmyQI3odaLNBeQ==","kid":"nT7xun0xTeOyN630r8qq2A=="},{"kty":"oct","k":"q8ehdaWTQfSmA3jt+9G+WQ==","kid":"yqgrStO/Ss6j1f7kq5Amgw=="},{"kty":"oct","k":"YDTqPn3SQq+F2paX5iLEYg==","kid":"Z5sTK228TxScGsqm6FchBw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QJoL7BviQz+1st4dLd2Auw==","kid":"xe06L73rTwS0WbgngOxrrg=="},{"kty":"oct","k":"MOungPf0QmyQI3odaLNBeQ==","kid":"nT7xun0xTeOyN630r8qq2A=="},{"kty":"oct","k":"q8ehdaWTQfSmA3jt+9G+WQ==","kid":"yqgrStO/Ss6j1f7kq5Amgw=="},{"kty":"oct","k":"YDTqPn3SQq+F2paX5iLEYg==","kid":"Z5sTK228TxScGsqm6FchBw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-love-comedy/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-loveromance" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-loveromance/logo.png", 韓国ラブロマンス
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jbrwZEOeTxWXDgvttLHtnA==","kid":"1ahkGW/RTiKaunNLuGCwcA=="},{"kty":"oct","k":"yJChIf0HR1y4e5Jim5pfIA==","kid":"AB+057r2QtO8AIO88MWMhQ=="},{"kty":"oct","k":"nyxidzGxQkmDAA7U1v1m0g==","kid":"/64/bNj3Rs2jq63FL7i99w=="},{"kty":"oct","k":"RIa39vsDTnS34R4VXugT8w==","kid":"nnb1sEE9T3COmZkEa586RQ=="},{"kty":"oct","k":"Ugt1g8dBTtSwmL1lPWsfRg==","kid":"EMJfxPmgTgqkVtbCfZBTuQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BbTui4X+RR+ficOm/CG2PQ==","kid":"sluO/x1XSEiGj+4NNnuX/g=="},{"kty":"oct","k":"yJChIf0HR1y4e5Jim5pfIA==","kid":"AB+057r2QtO8AIO88MWMhQ=="},{"kty":"oct","k":"nyxidzGxQkmDAA7U1v1m0g==","kid":"/64/bNj3Rs2jq63FL7i99w=="},{"kty":"oct","k":"RIa39vsDTnS34R4VXugT8w==","kid":"nnb1sEE9T3COmZkEa586RQ=="},{"kty":"oct","k":"Ugt1g8dBTtSwmL1lPWsfRg==","kid":"EMJfxPmgTgqkVtbCfZBTuQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-loveromance/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-historical" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png", 韓国時代劇
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e3TxqDrcQ8GRQ/Wo8q9gOA==","kid":"1Ytq9ZPOQM261FQaAPnC1g=="},{"kty":"oct","k":"e3TxqDrcQ8GRQ/Wo8q9gOA==","kid":"1Ytq9ZPOQM261FQaAPnC1g=="},{"kty":"oct","k":"6PrHJ/V/SgGPt4f1jwULqQ==","kid":"EiwLbWtYS2aFMOT0I+QC/w=="},{"kty":"oct","k":"mmEExFZ3T6GBickTEwMUqA==","kid":"zzVwCEBrSfywbhGgNc7Wog=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6PrHJ/V/SgGPt4f1jwULqQ==","kid":"EiwLbWtYS2aFMOT0I+QC/w=="},{"kty":"oct","k":"6PrHJ/V/SgGPt4f1jwULqQ==","kid":"EiwLbWtYS2aFMOT0I+QC/w=="},{"kty":"oct","k":"mmEExFZ3T6GBickTEwMUqA==","kid":"zzVwCEBrSfywbhGgNc7Wog=="},{"kty":"oct","k":"XMGr/xBNTLuKao5VBZ/bMA==","kid":"fBz9TIx+SpadqYf6wmir/w=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-historical/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png", 韓国・中国ドラマチャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K/tcH82nRWKm0pKCR056Iw==","kid":"qT1XiDRKS7uml0FWEz5fnw=="},{"kty":"oct","k":"P9qbbL4XSYyf1J9qjVWCGA==","kid":"QPI7DFWCSx+piwqcrPZSkQ=="},{"kty":"oct","k":"0673gzDDSQOZdkrT4VxelA==","kid":"qvYgvtMTS7GhX7UkSy7/BQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X8ddv1e1TQ2qMXsb5Il4hg==","kid":"zoJxh7JaRa+92MliBME+Hg=="},{"kty":"oct","k":"X8ddv1e1TQ2qMXsb5Il4hg==","kid":"zoJxh7JaRa+92MliBME+Hg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png", アニメSPECIAL2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l174Y9btSOGYG4fhU2XmrQ==","kid":"Jp3zgKRLREm1gbOARhT1Cw=="},{"kty":"oct","k":"LsNlUecuTN2brXKz+n2n8Q==","kid":"tR+I0CFYT5+3B/n2QICfOw=="},{"kty":"oct","k":"LsNlUecuTN2brXKz+n2n8Q==","kid":"tR+I0CFYT5+3B/n2QICfOw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JUOeGdHARvu5DFiyD2ugog==","kid":"SbOmITk4T5e5qcvIYFSElA=="},{"kty":"oct","k":"LsNlUecuTN2brXKz+n2n8Q==","kid":"tR+I0CFYT5+3B/n2QICfOw=="},{"kty":"oct","k":"9MrKINI8TJy8NULz3nMC5Q==","kid":"7UVNuS+BTWGEPJx5LCqnbw=="},{"kty":"oct","k":"LsNlUecuTN2brXKz+n2n8Q==","kid":"tR+I0CFYT5+3B/n2QICfOw=="},{"kty":"oct","k":"9MrKINI8TJy8NULz3nMC5Q==","kid":"7UVNuS+BTWGEPJx5LCqnbw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/anime-special-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="k-world" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png", K WORLDチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gl4XzlzFQAq10Y0bferuaQ==","kid":"yKQaiZ7WSuuvBBSGjFRayA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FSXtGpDWSV+zFD5dbqJAQw==","kid":"KTK6yCNTQeqGfSJuk5bYPQ=="},{"kty":"oct","k":"FSXtGpDWSV+zFD5dbqJAQw==","kid":"KTK6yCNTQeqGfSJuk5bYPQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/k-world/manifest.mpd
 
 #EXTINF:-1  tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png", アニメLIVEチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CEzIdRFES4CiMrm/Pi1raw==","kid":"g/d43Z23Spq8Gl8lKZDItg=="},{"kty":"oct","k":"gpisBTChR9icyyLH1paOvg==","kid":"d84TGDmYS52Tg1fuMWqPZQ=="},{"kty":"oct","k":"gpisBTChR9icyyLH1paOvg==","kid":"d84TGDmYS52Tg1fuMWqPZQ=="},{"kty":"oct","k":"caRvFxNfRNSGK14HGO81pA==","kid":"LjtQIuoJS2SIRkAfxtsHIw=="},{"kty":"oct","k":"BiSVtL0gQJaP3TiGDX/4jw==","kid":"DEHq149ySeG9RB+4FkUihw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GYUzxuoMQd6vgwMCXlWV4Q==","kid":"YpXJ22d6Rp6gAqRl13cA1g=="},{"kty":"oct","k":"gpisBTChR9icyyLH1paOvg==","kid":"d84TGDmYS52Tg1fuMWqPZQ=="},{"kty":"oct","k":"caRvFxNfRNSGK14HGO81pA==","kid":"LjtQIuoJS2SIRkAfxtsHIw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="isekai-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png", 異世界・ファンタジーアニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8gRmqjgjTRCCrKYGfXaOnA==","kid":"UuiwVyg/RkSMHiTInSl/kA=="},{"kty":"oct","k":"+jNhlnxfSYat77Kw1FvrQw==","kid":"fVfB1+EyQC2TeUv6qF0A6g=="},{"kty":"oct","k":"SVdUwq8fSx2iJy14MMUvVw==","kid":"PeuoVuFLR9qQIGnrr1WlZw=="},{"kty":"oct","k":"eAiZbeEMQOOVNdKRAxXQSg==","kid":"eN1OehI7TzyPmATFScfH4w=="},{"kty":"oct","k":"82WAJ+40RMercpeH3zj7vw==","kid":"3ShqaB+2SjqDVEB48heojQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDKwrvYHTkGcvxuD2lZbEA==","kid":"S2M5kpY9SZqNRWqBF1V1RQ=="},{"kty":"oct","k":"+jNhlnxfSYat77Kw1FvrQw==","kid":"fVfB1+EyQC2TeUv6qF0A6g=="},{"kty":"oct","k":"SVdUwq8fSx2iJy14MMUvVw==","kid":"PeuoVuFLR9qQIGnrr1WlZw=="},{"kty":"oct","k":"eAiZbeEMQOOVNdKRAxXQSg==","kid":"eN1OehI7TzyPmATFScfH4w=="},{"kty":"oct","k":"82WAJ+40RMercpeH3zj7vw==","kid":"3ShqaB+2SjqDVEB48heojQ=="},{"kty":"oct","k":"eAiZbeEMQOOVNdKRAxXQSg==","kid":"eN1OehI7TzyPmATFScfH4w=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/isekai-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="isekai-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png", 異世界・ファンタジーアニメ2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bb3eoN4jRvm9fG08N9V8WQ==","kid":"X1hTosVsQW+FDvgjC8x72A=="},{"kty":"oct","k":"L3Oz/sUcQ+qrQaoDy9dB2g==","kid":"uzHw7Y7tS/KQFY59mRlgOg=="},{"kty":"oct","k":"TX3tjlRwT4KHxsV3CNC+jA==","kid":"ArUINuyBQVi58ob3d+PtvA=="},{"kty":"oct","k":"88mk4eavQhqzUplX2MpS2A==","kid":"6SxmLX5fSwWQu8b/TX4mAQ=="},{"kty":"oct","k":"TX3tjlRwT4KHxsV3CNC+jA==","kid":"ArUINuyBQVi58ob3d+PtvA=="},{"kty":"oct","k":"88mk4eavQhqzUplX2MpS2A==","kid":"6SxmLX5fSwWQu8b/TX4mAQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gcsMWOWoSq6hhPcIww3Cdw==","kid":"0EuRFWojR4CL/iw7w5lucw=="},{"kty":"oct","k":"TX3tjlRwT4KHxsV3CNC+jA==","kid":"ArUINuyBQVi58ob3d+PtvA=="},{"kty":"oct","k":"TX3tjlRwT4KHxsV3CNC+jA==","kid":"ArUINuyBQVi58ob3d+PtvA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/isekai-anime-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="lovecomedy-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/lovecomedy-anime/logo.png", ラブコメアニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/84iyshuQQ+exAkkMj5IDA==","kid":"PQHKibbQQV+WdnlOmGQBrw=="},{"kty":"oct","k":"M1ZqTvntTxSUGUViPrmXyg==","kid":"zGkya1AJQhm1ru05MjHWxw=="},{"kty":"oct","k":"3NX/ChqaTUKu2wuTexkDnA==","kid":"q04dL1jdQmC4+seJIt256A=="},{"kty":"oct","k":"M1ZqTvntTxSUGUViPrmXyg==","kid":"zGkya1AJQhm1ru05MjHWxw=="},{"kty":"oct","k":"eFyvPg4dR2GvPLxCme5aig==","kid":"XNUi6caWTuqH3mIvhdxiWw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1EHU48Y5RsuQ6Mgiw5Jl7A==","kid":"rGMhRbpORyefcSG9GkUyiQ=="},{"kty":"oct","k":"3NX/ChqaTUKu2wuTexkDnA==","kid":"q04dL1jdQmC4+seJIt256A=="},{"kty":"oct","k":"M1ZqTvntTxSUGUViPrmXyg==","kid":"zGkya1AJQhm1ru05MjHWxw=="},{"kty":"oct","k":"eFyvPg4dR2GvPLxCme5aig==","kid":"XNUi6caWTuqH3mIvhdxiWw=="},{"kty":"oct","k":"Ck9yo3EXQAqMV2tEwWqGbQ==","kid":"AuBudmaNQaSIZUNmxTvhHQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/lovecomedy-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="dailylife-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png", 日常・青春アニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aX3N+cAwT+OYb0xur4J9mw==","kid":"3NfT6eytRN+FKuCBolsxQw=="},{"kty":"oct","k":"2vwDlVBWQUCyDniDnPWxmQ==","kid":"vcG7di9sTB6lkUONURr2SA=="},{"kty":"oct","k":"YbGXqjJFRSaoTYJBOKS0Dw==","kid":"vHrFsQkfR/GnchwU6sQo5A=="},{"kty":"oct","k":"YbGXqjJFRSaoTYJBOKS0Dw==","kid":"vHrFsQkfR/GnchwU6sQo5A=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"scq5HSwVT76tlfmcqrGeww==","kid":"CcFTBEg5TQGJrV+BANTojg=="},{"kty":"oct","k":"PW4Z6u2YTmelVgJBbzriAw==","kid":"YCOFm2ezR9WEFL8JCw/ptA=="},{"kty":"oct","k":"YbGXqjJFRSaoTYJBOKS0Dw==","kid":"vHrFsQkfR/GnchwU6sQo5A=="},{"kty":"oct","k":"PW4Z6u2YTmelVgJBbzriAw==","kid":"YCOFm2ezR9WEFL8JCw/ptA=="},{"kty":"oct","k":"YbGXqjJFRSaoTYJBOKS0Dw==","kid":"vHrFsQkfR/GnchwU6sQo5A=="},{"kty":"oct","k":"metau3F5RPabrFqNloMGgQ==","kid":"lWNgEW8/TMmnmgunw559wg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/dailylife-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="late-night-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png", 深夜アニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IuoInDxsQnWCUVpS/SV4PA==","kid":"sG9S3Ij7QLO2aIQMuB1D9A=="},{"kty":"oct","k":"63WQr7UxQKympQbexiEaow==","kid":"KGWsewMJSEOLAQtz+Uwk6w=="},{"kty":"oct","k":"k7pzdbKWRTOhoJ2DMkPQtA==","kid":"cWNOk+8WQFGLQX7/rmYh2A=="},{"kty":"oct","k":"UsvBcVzpRAqqSPywwNpDwg==","kid":"wbRDLcD9Q7a6hcty6pdJAw=="},{"kty":"oct","k":"63WQr7UxQKympQbexiEaow==","kid":"KGWsewMJSEOLAQtz+Uwk6w=="},{"kty":"oct","k":"UsvBcVzpRAqqSPywwNpDwg==","kid":"wbRDLcD9Q7a6hcty6pdJAw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H17D0tWoQOCqhmUzftwB9g==","kid":"btwcsbRhSrqKICBzbtAT7A=="},{"kty":"oct","k":"k7pzdbKWRTOhoJ2DMkPQtA==","kid":"cWNOk+8WQFGLQX7/rmYh2A=="},{"kty":"oct","k":"UsvBcVzpRAqqSPywwNpDwg==","kid":"wbRDLcD9Q7a6hcty6pdJAw=="},{"kty":"oct","k":"63WQr7UxQKympQbexiEaow==","kid":"KGWsewMJSEOLAQtz+Uwk6w=="},{"kty":"oct","k":"kRpqm4YETTqhwAmJ/xbhhQ==","kid":"XvrT2wq0T9ShAy5JXB3Hog=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/late-night-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png", 麻雀チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tDW4knKMQ5CHmNiCcDX/Gg==","kid":"G+kSVXKtR/+i/j5fO+GX1Q=="},{"kty":"oct","k":"tDW4knKMQ5CHmNiCcDX/Gg==","kid":"G+kSVXKtR/+i/j5fO+GX1Q=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"z5gx+QbZRzOHuhAoDlqSyA==","kid":"ljuQmKi3ThiogmKnyeX8sw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/mahjong/manifest.mpd
 
 #EXTINF:-1  tvg-id="shogi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png", 将棋チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"On1wXafZS0+Q7LHvjUaxWQ==","kid":"mdgcCk6ySp6v4fUamzwOWw=="},{"kty":"oct","k":"On1wXafZS0+Q7LHvjUaxWQ==","kid":"mdgcCk6ySp6v4fUamzwOWw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GAKbfHZrT1uOoYEwzuizFw==","kid":"TFCVYBFkT1mLbTw+mbUpoA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/shogi/manifest.mpd
 
 #EXTINF:-1  tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png", SPORTSチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t3qWkV4FQL2XBltpMPrlFw==","kid":"fRxQXhWKTuO4TyHDzb0DHw=="},{"kty":"oct","k":"Jat4TUHFQIq1L1RrwHLbcQ==","kid":"pvfyrn8PSmOlgx8Z0Qxz6w=="},{"kty":"oct","k":"769RhmOeQXyRUS0FoXFj9g==","kid":"Rct3spmiSPSTla6FTCc9rQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jat4TUHFQIq1L1RrwHLbcQ==","kid":"pvfyrn8PSmOlgx8Z0Qxz6w=="},{"kty":"oct","k":"Jat4TUHFQIq1L1RrwHLbcQ==","kid":"pvfyrn8PSmOlgx8Z0Qxz6w=="},{"kty":"oct","k":"769RhmOeQXyRUS0FoXFj9g==","kid":"Rct3spmiSPSTla6FTCc9rQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/world-sports/manifest.mpd
+
+#EXTINF:-1  tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png", SPORTS LIVE1 チャンネル
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jat4TUHFQIq1L1RrwHLbcQ==","kid":"pvfyrn8PSmOlgx8Z0Qxz6w=="},{"kty":"oct","k":"Jat4TUHFQIq1L1RrwHLbcQ==","kid":"pvfyrn8PSmOlgx8Z0Qxz6w=="},{"kty":"oct","k":"769RhmOeQXyRUS0FoXFj9g==","kid":"Rct3spmiSPSTla6FTCc9rQ=="}],"type":"temporary"}
+https://ds-linear-abematv.akamaized.net/channel/world-sports-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png", 格闘チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t3qWkV4FQL2XBltpMPrlFw==","kid":"fRxQXhWKTuO4TyHDzb0DHw=="},{"kty":"oct","k":"Jat4TUHFQIq1L1RrwHLbcQ==","kid":"pvfyrn8PSmOlgx8Z0Qxz6w=="},{"kty":"oct","k":"769RhmOeQXyRUS0FoXFj9g==","kid":"Rct3spmiSPSTla6FTCc9rQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4u5qI9b7TEitVIvwoJtnaQ==","kid":"4cUYjUk7QQW76Ta6Ap/n9g=="},{"kty":"oct","k":"4u5qI9b7TEitVIvwoJtnaQ==","kid":"4cUYjUk7QQW76Ta6Ap/n9g=="},{"kty":"oct","k":"Cx5TqvkfQ1am4hKMxGg6cQ==","kid":"JVsIkJDvR4qIg4mbdZMG/g=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/fighting-sports/manifest.mpd
 
 #EXTINF:-1  tvg-id="hiphop" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png", HIPHOPチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUmxy5I+QuqIdgK0J2789w==","kid":"uEut3s11RpuwyxByJHi5nQ=="},{"kty":"oct","k":"4F5rfs+tSHaVk1jCP/5krQ==","kid":"m3SKe0ifQeCHwZ347+ZavQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eA8wzurCQbytA/iFeQ0ojQ==","kid":"dKZamtRzQneR2Y4a8g8KUg=="},{"kty":"oct","k":"4F5rfs+tSHaVk1jCP/5krQ==","kid":"m3SKe0ifQeCHwZ347+ZavQ=="},{"kty":"oct","k":"Se4TrgaFTbyrvtEt5ypbOA==","kid":"tzLUqjthSHa+q41aRre1Sw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/hiphop/manifest.mpd
 
 #EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUmxy5I+QuqIdgK0J2789w==","kid":"uEut3s11RpuwyxByJHi5nQ=="},{"kty":"oct","k":"4F5rfs+tSHaVk1jCP/5krQ==","kid":"m3SKe0ifQeCHwZ347+ZavQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eA8wzurCQbytA/iFeQ0ojQ==","kid":"dKZamtRzQneR2Y4a8g8KUg=="},{"kty":"oct","k":"4F5rfs+tSHaVk1jCP/5krQ==","kid":"m3SKe0ifQeCHwZ347+ZavQ=="},{"kty":"oct","k":"Se4TrgaFTbyrvtEt5ypbOA==","kid":"tzLUqjthSHa+q41aRre1Sw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
 
 #EXTINF:-1  tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png", 競輪・オートレースチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hg9c62oaRaym31M5mMvPjg==","kid":"yPwROfbtSDarVpYass+LRg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wtd3eXD0THiVhsUNPahngw==","kid":"ruL7nppdQmamBMroce3iKQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/keirin-auto/manifest.mpd
 

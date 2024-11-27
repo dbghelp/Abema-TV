@@ -14,9 +14,9 @@ https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/dbg
 - Accessible via Japan IP only
 
 ## Screenshots
-![Local Image](./img/1.png)
-![Local Image](./img/2.png)
-![Local Image](./img/3.png)
+![Local Image](./img/7.png)
+![Local Image](./img/8.png)
+![Local Image](./img/9.png)
 ![Local Image](./img/4.png)
 ![Local Image](./img/5.png)
 ![Local Image](./img/6.png)

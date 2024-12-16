@@ -1,5 +1,20 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/Abema-TV-EPG/refs/heads/main/abema.xml" refresh="3600"
 
+#EXTINF:-1  tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png", ABEMA SPECIALチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
+
+#EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
+
+#EXTINF:-1  tvg-id="special-plus-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png", ABEMA SPECIAL 3チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-2/playlist.m3u8
+
+#EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
+
+#EXTINF:-1  tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png", ABEMA NEWS会見チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
+
 #EXTINF:-1  tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png", ABEMA アニメチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
 
@@ -50,21 +65,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u
 
 #EXTINF:-1  tvg-id="00s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png", なつかしアニメ00's
 https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
-
-#EXTINF:-1  tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png", ABEMA SPECIALチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
-
-#EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
-
-#EXTINF:-1  tvg-id="special-plus-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png", ABEMA SPECIAL 3チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-2/playlist.m3u8
-
-#EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
-
-#EXTINF:-1  tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png", ABEMA NEWS会見チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
 
 #EXTINF:-1  tvg-id="asia-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png", 韓国・中国ドラマチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8

@@ -52,12 +52,12 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dm0JTq4eS5+cl+5ZZgz/8A==","kid":"lASmu7toSAWR8X5BCCIEtA=="},{"kty":"oct","k":"/EdlXiYDQ+CTqm60cWtZ6A==","kid":"lj85APESSI2R7+2DyYZJ/w=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6usUU4qhR8G9DoC3Qe14Uw==","kid":"bT5OpNCTRjiSYcF6qbbexw=="},{"kty":"oct","k":"/EdlXiYDQ+CTqm60cWtZ6A==","kid":"lj85APESSI2R7+2DyYZJ/w=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IdVS9fcPSYKa2nuylVn/iw==","kid":"+hRM2DxKQriluiR3sDmcCg=="},{"kty":"oct","k":"+BDzUHYERgOUlqNlRSpbKw==","kid":"8O7LyNe/SkmghzCGg6B0nA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+BDzUHYERgOUlqNlRSpbKw==","kid":"8O7LyNe/SkmghzCGg6B0nA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/pokemon-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png", アニメ ポケットモンスターチャンネル2
@@ -82,7 +82,7 @@ https://ds-linear-abematv.akamaized.net/channel/family-anime-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="dragonball" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png", ドラゴンボールチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0ZU3RT3aTce6oVR6U+nKdQ==","kid":"gnGw1GUlSNm5GGr2tu85yg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0ZU3RT3aTce6oVR6U+nKdQ==","kid":"gnGw1GUlSNm5GGr2tu85yg=="},{"kty":"oct","k":"JMKRS/NHRvCLGp4azPtVpg==","kid":"fBEjXsNURfuwIK7MZ1VTIw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/dragonball/manifest.mpd
 
 #EXTINF:-1  tvg-id="cityhunter" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/cityhunter/logo.png", シティハンターチャンネル
@@ -172,7 +172,7 @@ https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sP81vbDbQQejyvsoFTp0LA==","kid":"2E6HNoAzRcqWKNr7aQtJcQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sP81vbDbQQejyvsoFTp0LA==","kid":"2E6HNoAzRcqWKNr7aQtJcQ=="},{"kty":"oct","k":"T2wV2If5RcyIkhvFOm4Eew==","kid":"4aabr59wSleG2CEw/eg5yA=="},{"kty":"oct","k":"lafQFkRhQcKi0nBQltJGFw==","kid":"sBKS5V76Q36gQKSdJup3Ag=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png", 麻雀チャンネル
@@ -207,7 +207,7 @@ https://ds-linear-abematv.akamaized.net/channel/rizin/manifest.mpd
 
 #EXTINF:-1  tvg-id="hiphop" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png", HIPHOPチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vh/XPoOtSn+cBznkLCCC1A==","kid":"rbXV3TM+Roi49tknSA1yGw=="},{"kty":"oct","k":"TozdvNXYTxiG16AvE3JzYg==","kid":"kNcSsOkqQ6WwodfmRgvxEQ=="},{"kty":"oct","k":"qy8qhWRCTSulZchoO3wbPw==","kid":"4rcufi95ShKa74xz2egf/g=="},{"kty":"oct","k":"+7P+QnvWTDWfvZPT6LX8fw==","kid":"U5hTcqs1R465lwqnM5obVQ=="},{"kty":"oct","k":"KUMkfmj4SNOpZAdm4OJ0/w==","kid":"RA4ozmj5SdCQ7TdKM6LMsw=="},{"kty":"oct","k":"P3jCUXWFQ5KNX8cp0OrX4g==","kid":"WuQmLVbBR2i2/JkFOOsvvw=="},{"kty":"oct","k":"e8Uy2JvhSoWCFwQdroDOdw==","kid":"HuZjJP9tRI+W1eci8Vmcbw=="},{"kty":"oct","k":"TkKmLcFhTqu/lCQ62w9zjA==","kid":"xYquQzp1TJ+CHpevSXYOvw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qy8qhWRCTSulZchoO3wbPw==","kid":"4rcufi95ShKa74xz2egf/g=="},{"kty":"oct","k":"TozdvNXYTxiG16AvE3JzYg==","kid":"kNcSsOkqQ6WwodfmRgvxEQ=="},{"kty":"oct","k":"vh/XPoOtSn+cBznkLCCC1A==","kid":"rbXV3TM+Roi49tknSA1yGw=="},{"kty":"oct","k":"+7P+QnvWTDWfvZPT6LX8fw==","kid":"U5hTcqs1R465lwqnM5obVQ=="},{"kty":"oct","k":"KUMkfmj4SNOpZAdm4OJ0/w==","kid":"RA4ozmj5SdCQ7TdKM6LMsw=="},{"kty":"oct","k":"P3jCUXWFQ5KNX8cp0OrX4g==","kid":"WuQmLVbBR2i2/JkFOOsvvw=="},{"kty":"oct","k":"e8Uy2JvhSoWCFwQdroDOdw==","kid":"HuZjJP9tRI+W1eci8Vmcbw=="},{"kty":"oct","k":"TkKmLcFhTqu/lCQ62w9zjA==","kid":"xYquQzp1TJ+CHpevSXYOvw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/hiphop/manifest.mpd
 
 #EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル

@@ -57,7 +57,7 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LGjSx1IvTaKzWPDSeMfBog==","kid":"oqvf7qR9SPygS7/bSdpyzA=="},{"kty":"oct","k":"OWNDFlBmQfiNynm1Pw1IxQ==","kid":"FPtwagv1TQ2izGQuB2Zrxg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CzSlSrbQR2ep1+m8IQr5uA==","kid":"IfjY6QVyQge0K4QuCODP0w=="},{"kty":"oct","k":"OWNDFlBmQfiNynm1Pw1IxQ==","kid":"FPtwagv1TQ2izGQuB2Zrxg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -112,7 +112,7 @@ https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vfn5TJ91SJupiG/HP3Y6kQ==","kid":"kpJq0Mu7SB2jYj/RKvDnew=="},{"kty":"oct","k":"QBPcp+gpRHOHmZ8Z31gh+g==","kid":"cfDgXgYzRgC9lz9HoKRldg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QBPcp+gpRHOHmZ8Z31gh+g==","kid":"cfDgXgYzRgC9lz9HoKRldg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="metrock" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/metrock/logo.png", メトロックチャンネル

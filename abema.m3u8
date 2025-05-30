@@ -112,12 +112,12 @@ https://ds-linear-abematv.akamaized.net/channel/00s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png", ABEMA SPECIALチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rTp4A03/R5W4j4y9aTQgbQ==","kid":"/P3RAfZbTZS9JWsJ/odQOw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vYthkZTiR1220b1ZyfD+4A==","kid":"Bpt8MjF2S8OSTPKTjKxcAg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vYthkZTiR1220b1ZyfD+4A==","kid":"Bpt8MjF2S8OSTPKTjKxcAg=="},{"kty":"oct","k":"8f1Dkh/YRWWJhh02ROA01g==","kid":"VCQqa2QmRjKN5xFXUaauCA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
@@ -147,7 +147,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-love-comedy/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-loveromance" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-loveromance/logo.png", 韓国ラブロマンス
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/nDFu9x9Q7OhDCC3R11Hvw==","kid":"auA3JB+NRs+jcewHHjgULA=="},{"kty":"oct","k":"j5Jf0uGtQkyPLBLUNRFw1w==","kid":"s1GlcInDToiBPK8f3OwCmA=="},{"kty":"oct","k":"qK5nG1HTRgyF0Iudh5u38Q==","kid":"9i+qE6NCQGKtdmhd1Q41Gg=="},{"kty":"oct","k":"0el7lBTPRCO92XVBZsMHxQ==","kid":"VAef0NtbT7Gm6obc8KiV8g=="},{"kty":"oct","k":"j51IQ7WvQNi25Od1wbihig==","kid":"sRlx55VMQsSwjX6mfhAvgw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0el7lBTPRCO92XVBZsMHxQ==","kid":"VAef0NtbT7Gm6obc8KiV8g=="},{"kty":"oct","k":"j5Jf0uGtQkyPLBLUNRFw1w==","kid":"s1GlcInDToiBPK8f3OwCmA=="},{"kty":"oct","k":"qK5nG1HTRgyF0Iudh5u38Q==","kid":"9i+qE6NCQGKtdmhd1Q41Gg=="},{"kty":"oct","k":"/nDFu9x9Q7OhDCC3R11Hvw==","kid":"auA3JB+NRs+jcewHHjgULA=="},{"kty":"oct","k":"j51IQ7WvQNi25Od1wbihig==","kid":"sRlx55VMQsSwjX6mfhAvgw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-loveromance/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-historical" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png", 韓国時代劇

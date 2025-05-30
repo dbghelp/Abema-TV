@@ -77,7 +77,7 @@ https://ds-linear-abematv.akamaized.net/channel/family-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png", ファミリーアニメ２
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZaSu8XPqRVCoitevtrT2tg==","kid":"rTNkZ/BsRyOmdMSnBPnofw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZaSu8XPqRVCoitevtrT2tg==","kid":"rTNkZ/BsRyOmdMSnBPnofw=="},{"kty":"oct","k":"kKfvynRnR8Sbx+4Qoc9mjA==","kid":"FYeBY54YRwa3E3uAItGSBA=="},{"kty":"oct","k":"JDub2b5aTrS0dDXigDYVQw==","kid":"gENCPDCyS9GQz5LsDRCl6A=="},{"kty":"oct","k":"2+mLPQKkRYeKsdr7FjLeVw==","kid":"7NBxthxgRsKTzepomvj6OA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/family-anime-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="dragonball" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png", ドラゴンボールチャンネル
@@ -87,12 +87,12 @@ https://ds-linear-abematv.akamaized.net/channel/dragonball/manifest.mpd
 
 #EXTINF:-1  tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png", なつかしアニメ80's
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s5ODHxS+REqC5nBy98HkEQ==","kid":"f9F0f11SScq2nQLVfpj7xg=="},{"kty":"oct","k":"k3SSOKF5QU60A5Ptij9WLw==","kid":"NAxp6bMwSAGZN3rAQ+tvCQ=="},{"kty":"oct","k":"dDKYP+uDR6i7MKMUygyXjA==","kid":"343n4s6/Rae2u2JFJ/6bkQ=="},{"kty":"oct","k":"4rdEqRuWQOehImwwKi8xHQ==","kid":"MBZIFurTTrufFCODZlRAOg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s5ODHxS+REqC5nBy98HkEQ==","kid":"f9F0f11SScq2nQLVfpj7xg=="},{"kty":"oct","k":"JH6pDgaFSAW9hLoM44S7aw==","kid":"K2tl6Y2OQOasNb13uUlhHQ=="},{"kty":"oct","k":"ckSUS8nrQfa3w9tIEjr5Sg==","kid":"jrq1YjPWTJiEr6yBapl7xw=="},{"kty":"oct","k":"c8EOIMDcTm+m9KaY9kwMHA==","kid":"UaYelTXJS4aS+XOUNXfIuA=="},{"kty":"oct","k":"6pvT6wrDSru0m7pFz2RHGQ==","kid":"Zgeaym9vSIe8u5jiMoo1yg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/80s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="90s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png", なつかしアニメ90's
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+3FpwF8lQPGxcILTROb0Mg==","kid":"E7FPbXQCQj+f/Cbk1NEjsQ=="},{"kty":"oct","k":"lTmRiTkqQeyynhx7h9tkoA==","kid":"jeAfRoiDTCqCQgOKUqM9mg=="},{"kty":"oct","k":"hO2e65DAQIqvBRX70jbw3w==","kid":"X3WdEYVRSrmeXQcjYhsK5Q=="},{"kty":"oct","k":"Q3bDSaojQ4SZsSgjGJN/2g==","kid":"zUvOavEFRrirHinso0AItA=="},{"kty":"oct","k":"SSnJwtXnQZqF1/6RwRSbAQ==","kid":"ejJFRRrZRTuI56ufEbzFLg=="},{"kty":"oct","k":"VFMDxO7FSzmibbyXHnMVww==","kid":"FXN3/MtgTWK4R1UpDRklfQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SSnJwtXnQZqF1/6RwRSbAQ==","kid":"ejJFRRrZRTuI56ufEbzFLg=="},{"kty":"oct","k":"lTmRiTkqQeyynhx7h9tkoA==","kid":"jeAfRoiDTCqCQgOKUqM9mg=="},{"kty":"oct","k":"hO2e65DAQIqvBRX70jbw3w==","kid":"X3WdEYVRSrmeXQcjYhsK5Q=="},{"kty":"oct","k":"Q3bDSaojQ4SZsSgjGJN/2g==","kid":"zUvOavEFRrirHinso0AItA=="},{"kty":"oct","k":"+3FpwF8lQPGxcILTROb0Mg==","kid":"E7FPbXQCQj+f/Cbk1NEjsQ=="},{"kty":"oct","k":"VFMDxO7FSzmibbyXHnMVww==","kid":"FXN3/MtgTWK4R1UpDRklfQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/90s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="00s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png", なつかしアニメ00's
@@ -107,7 +107,7 @@ https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UEGxg7aWQQ6T7WMXortYOw==","kid":"dWVlXiPLS+KHnAcHxC7h2Q=="},{"kty":"oct","k":"IyZdaePWSeOWB5kgXCbxog==","kid":"GxI6cDJ3TI6RTha7G7co/A=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IyZdaePWSeOWB5kgXCbxog==","kid":"GxI6cDJ3TI6RTha7G7co/A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
@@ -187,7 +187,7 @@ https://ds-linear-abematv.akamaized.net/channel/fighting-sports/manifest.mpd
 
 #EXTINF:-1  tvg-id="hiphop" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png", HIPHOPチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4p+oY2/XRg+JBCh/ZO5yjg==","kid":"ipqBxSPEQvKESRuq1z/jeA=="},{"kty":"oct","k":"4F5rfs+tSHaVk1jCP/5krQ==","kid":"m3SKe0ifQeCHwZ347+ZavQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ap0EvQHeTWmfWiqpui8rDQ==","kid":"Ab3NlBk/TBmvtFE1D8gzYg=="},{"kty":"oct","k":"4F5rfs+tSHaVk1jCP/5krQ==","kid":"m3SKe0ifQeCHwZ347+ZavQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/hiphop/manifest.mpd
 
 #EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル

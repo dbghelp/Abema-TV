@@ -52,7 +52,7 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MCY6K649QLmmdEG4zKLTzg==","kid":"3ALVp0doRvWMvxqNzWqsEQ=="},{"kty":"oct","k":"uDNi7K2USdi6uqdGvHl0nw==","kid":"4CvriBb/QG+aH2Fd2Qx2kQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YuwACcHwQ3ysj7rD8U68Nw==","kid":"bAKba2XKR4usHO2ERji3lw=="},{"kty":"oct","k":"uDNi7K2USdi6uqdGvHl0nw==","kid":"4CvriBb/QG+aH2Fd2Qx2kQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="shinchan-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shinchan-special/logo.png", 映画クレヨンしんちゃんチャンネル
@@ -152,12 +152,12 @@ https://ds-linear-abematv.akamaized.net/channel/asia-historical/manifest.mpd
 
 #EXTINF:-1  tvg-id="k-world" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png", K WORLDチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ACBL+rd/Sgap2uc4iW4DAQ==","kid":"/gTwQ3ncTKujqudPz61ZWA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ACBL+rd/Sgap2uc4iW4DAQ==","kid":"/gTwQ3ncTKujqudPz61ZWA=="},{"kty":"oct","k":"ADmd+shdQ0CCE8mGCzslNQ==","kid":"5JLxT6FzTMOEkcnrwjPDEg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/k-world/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png", ドラマ映画チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hZgOG9JjRK2ZZmFBYlZq0w==","kid":"eLXf+bvOQSuv0o4ZnnNHkQ=="},{"kty":"oct","k":"i8jQQ6dnQ1ylMKKOgQfmeg==","kid":"kfOR61tKSWufH3xRTEGOgQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sh38uG1pQ++EW4Ayl9LYPg==","kid":"UMXA2CtfRGCG4M6A4umMCw=="},{"kty":"oct","k":"i8jQQ6dnQ1ylMKKOgQfmeg==","kid":"kfOR61tKSWufH3xRTEGOgQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2

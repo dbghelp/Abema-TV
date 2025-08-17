@@ -72,7 +72,7 @@ https://ds-linear-abematv.akamaized.net/channel/chibimaruko/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eQALs/gbTUSx/0H7fMwBIQ==","kid":"rsasUsIsQT6PDtFClwmRyA=="},{"kty":"oct","k":"AvTU0WdOQwqPl5aJGdxkoQ==","kid":"7Dow00fCRkaXUbq2t5NhnQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pNfQx25RR66Llf6sHo6sGQ==","kid":"H7DEjvctTmmwn3NiU6AvJQ=="},{"kty":"oct","k":"AvTU0WdOQwqPl5aJGdxkoQ==","kid":"7Dow00fCRkaXUbq2t5NhnQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="shinchan-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shinchan-special/logo.png", 映画クレヨンしんちゃんチャンネル
@@ -192,7 +192,7 @@ https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qEsQNfFYS7qDZ8fx45GweA==","kid":"GJYKolJpQ4aM9krTJ95sqg=="},{"kty":"oct","k":"LtXLAltxRl6kkZsC/35fxg==","kid":"YDejetF6R1K5F1/EskzUtw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LtXLAltxRl6kkZsC/35fxg==","kid":"YDejetF6R1K5F1/EskzUtw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-3/logo.png", ドラマ映画チャンネル3
@@ -217,7 +217,7 @@ https://ds-linear-abematv.akamaized.net/channel/world-sports/manifest.mpd
 
 #EXTINF:-1  tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png", MOTOR SPORTチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZxzO71HOSs2yylmh2sACGg==","kid":"bT3EumGgTZKeuIBjOGPAKg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZxzO71HOSs2yylmh2sACGg==","kid":"bT3EumGgTZKeuIBjOGPAKg=="},{"kty":"oct","k":"dgfOgYR9SxmVagnyIp/1WQ==","kid":"LPCqQJ8NT8iqUucwHFh3ug=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/motor-sport/manifest.mpd
 
 #EXTINF:-1  tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png", 格闘チャンネル

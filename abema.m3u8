@@ -67,7 +67,7 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QIV3x2vzSHO81K3Wc2FAOg==","kid":"XTOzKjrIRFa0Im3m5y0FVw=="},{"kty":"oct","k":"Uz6OFVu/QrKgh2RNtkjZsQ==","kid":"Qzj/lr/BSxaod3gFBv7vKA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Tkubn8B/ST66epGfscMJ2g==","kid":"7zzk1Fz2S0i/b7jMLaI85Q=="},{"kty":"oct","k":"Uz6OFVu/QrKgh2RNtkjZsQ==","kid":"Qzj/lr/BSxaod3gFBv7vKA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -107,12 +107,12 @@ https://ds-linear-abematv.akamaized.net/channel/00s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png", ABEMA SPECIALチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PnfKNLPiRbq4YfcnKfohGA==","kid":"I6ClK0uiReqjkiDV1cZvqA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PnfKNLPiRbq4YfcnKfohGA==","kid":"I6ClK0uiReqjkiDV1cZvqA=="},{"kty":"oct","k":"jhjYAx/rT/60rxTWK8ngsg==","kid":"zHwwAB31RBqYWHkvv4i5Tw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HWKNVrUJSEikfUVU/yWnBw==","kid":"LJXRknarSjOs1v+qpWMMJw=="},{"kty":"oct","k":"ZkEFHGraS/6z+wEt6tEcKA==","kid":"8eON5WTPQyuh84aMvUKpWw=="},{"kty":"oct","k":"OSEvJrMRS6miTlw2/vNBDQ==","kid":"2ytUKgNwTPakvrqF1tLe/g=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HWKNVrUJSEikfUVU/yWnBw==","kid":"LJXRknarSjOs1v+qpWMMJw=="},{"kty":"oct","k":"fsReNALsR0md2lFtAE/LSg==","kid":"dxfcmNMTSIOvX706tewdRQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
@@ -172,7 +172,7 @@ https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png", 麻雀チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2alMaIKXQCqljXTZZg/pNw==","kid":"oQe6SVntQmmytG3G+GEzIw=="},{"kty":"oct","k":"z2qdYKsvQLykITzWOD73UA==","kid":"QGzPXNShRGihKycqgam3cg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"z2qdYKsvQLykITzWOD73UA==","kid":"QGzPXNShRGihKycqgam3cg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/mahjong/manifest.mpd
 
 #EXTINF:-1  tvg-id="shogi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png", 将棋チャンネル

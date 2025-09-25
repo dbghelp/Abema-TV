@@ -127,7 +127,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png", 韓国ドラマチャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0jfTmwNAQXemTwbDBRdvPg==","kid":"pIGXPWmnTD60YtE92Xk2sw=="},{"kty":"oct","k":"XQwSK7UCTwGsmbTy169lQg==","kid":"50NQkk01QlKEvVZxxt2wMQ=="},{"kty":"oct","k":"uwgbUmAaQBC0hJlFLnlLMg==","kid":"+5F49afnTSafHufy15vR9A=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQwSK7UCTwGsmbTy169lQg==","kid":"50NQkk01QlKEvVZxxt2wMQ=="},{"kty":"oct","k":"0jfTmwNAQXemTwbDBRdvPg==","kid":"pIGXPWmnTD60YtE92Xk2sw=="},{"kty":"oct","k":"uwgbUmAaQBC0hJlFLnlLMg==","kid":"+5F49afnTSafHufy15vR9A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="chinese-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png", 中国ドラマチャンネル
@@ -142,7 +142,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-love-comedy/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-loveromance" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-loveromance/logo.png", 韓国ラブロマンス
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EpXadXh1QdKjBVHLqhgPQQ==","kid":"aTCAZoGURF64T87t9Pu+XQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EpXadXh1QdKjBVHLqhgPQQ==","kid":"aTCAZoGURF64T87t9Pu+XQ=="},{"kty":"oct","k":"JesXRZvVTcm7tXkm+NdLzw==","kid":"KaVfbKCQRtqlXelA9kvXKg=="},{"kty":"oct","k":"ScqQAWREQaytyop3kA8jYQ==","kid":"sCjVb9CBRdeYj9V3o5uvHQ=="},{"kty":"oct","k":"StwMe9rzR3K5lKvA9WWn/Q==","kid":"piKEMEXoQLqN3F+t6+b1JA=="},{"kty":"oct","k":"PkRdy4FWRqKPKx5AMPJIoQ==","kid":"bfegWYSrT0mDCm2Lq+KF/g=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-loveromance/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-historical" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png", 韓国時代劇
@@ -152,7 +152,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-historical/manifest.mpd
 
 #EXTINF:-1  tvg-id="k-world" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png", K WORLDチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iOLI8kmMTGC9lncbMV02AA==","kid":"AastnMjJT+eDI4vvbQSr1A=="},{"kty":"oct","k":"Ix2506WLQZ+uTd/DvD1EkA==","kid":"UfNwqpOLR92KjTo6oGuFVA=="},{"kty":"oct","k":"4iGF/y2zTeaR19hg0NRusA==","kid":"guuPq0ysSvu7hlyk/Ni4gg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4iGF/y2zTeaR19hg0NRusA==","kid":"guuPq0ysSvu7hlyk/Ni4gg=="},{"kty":"oct","k":"Ix2506WLQZ+uTd/DvD1EkA==","kid":"UfNwqpOLR92KjTo6oGuFVA=="},{"kty":"oct","k":"iOLI8kmMTGC9lncbMV02AA==","kid":"AastnMjJT+eDI4vvbQSr1A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/k-world/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png", ドラマ映画チャンネル
@@ -162,7 +162,7 @@ https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ipJ373oDQUmcRLAy7ovldw==","kid":"VdCVKvJyQeiWh11HZDGIxA=="},{"kty":"oct","k":"5R+5RfdoTw2qgweO22NHEA==","kid":"te3P7xlkTg6taGL2D4n8vQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5R+5RfdoTw2qgweO22NHEA==","kid":"te3P7xlkTg6taGL2D4n8vQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png", 麻雀チャンネル

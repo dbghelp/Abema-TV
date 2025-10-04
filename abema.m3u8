@@ -187,7 +187,7 @@ https://ds-linear-abematv.akamaized.net/channel/world-sports/manifest.mpd
 
 #EXTINF:-1  tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png", MOTOR SPORTチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dgfOgYR9SxmVagnyIp/1WQ==","kid":"LPCqQJ8NT8iqUucwHFh3ug=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dgfOgYR9SxmVagnyIp/1WQ==","kid":"LPCqQJ8NT8iqUucwHFh3ug=="},{"kty":"oct","k":"b9+EZ9OeQzq1XSbuELqpTA==","kid":"YGqxK80jREKrBxdnAHf0ug=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/motor-sport/manifest.mpd
 
 #EXTINF:-1  tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png", 格闘チャンネル

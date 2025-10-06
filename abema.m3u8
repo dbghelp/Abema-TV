@@ -57,7 +57,7 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oyTgY6jvQx2rYgtLQ6jhKw==","kid":"3OfkYqD6RLWjr48s57tQ3Q=="},{"kty":"oct","k":"OUdfl0PVQH+Ijio/CfgKPg==","kid":"MImEVA35QnS79Hlxozamfw=="},{"kty":"oct","k":"l4Y+6+RuTVS5fjKW2ALNoQ==","kid":"KsiD4cYERNCltrpE3gOqYw=="},{"kty":"oct","k":"doZBM+2vQtSDIC7EzjMp8Q==","kid":"m8uwqE02Sh2H1qG+OyEwXw=="},{"kty":"oct","k":"yFSfVILeQUOum8NvWExeYg==","kid":"yL7//o1XQUiqjgchRhDYLw=="},{"kty":"oct","k":"K7/wecqBRoWBC9r8cuncCw==","kid":"ZffGqSMjSIafYCSxNaP1lQ=="},{"kty":"oct","k":"L3//ZISXRe6b7W15AJG9TQ==","kid":"0W+fa+hKRaWYMrK+iJglHg=="},{"kty":"oct","k":"uiDP9GS/RzqDUFJr3om25Q==","kid":"Ku98WaRgSjCWt3Hz7x/fLQ=="},{"kty":"oct","k":"1nzgJPYsRlamZOB/Qe71WA==","kid":"ATyst90kRIykRwEsSkW9DQ=="},{"kty":"oct","k":"tHYhxhQfSTa542wa6dPH0w==","kid":"38gjy3fXQRCBLS/VEqBOtg=="},{"kty":"oct","k":"eCaf5lILS3S1wjMMWIoDHg==","kid":"BRYslZeuSWqlpaTWoh3S+w=="},{"kty":"oct","k":"LNlu95euQiaNAKeLn8lOvg==","kid":"9HdcKxJgRMOuLya/cG9g/Q=="},{"kty":"oct","k":"M9deTZx/TZ2ZiGx49VwIUA==","kid":"Kj7oLSe6Qpmbwt+mcgjM5g=="},{"kty":"oct","k":"PEvREUWPQTiaBze9asY0MA==","kid":"DvseUGNqQze7aqC2EA817Q=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L3//ZISXRe6b7W15AJG9TQ==","kid":"0W+fa+hKRaWYMrK+iJglHg=="},{"kty":"oct","k":"OUdfl0PVQH+Ijio/CfgKPg==","kid":"MImEVA35QnS79Hlxozamfw=="},{"kty":"oct","k":"l4Y+6+RuTVS5fjKW2ALNoQ==","kid":"KsiD4cYERNCltrpE3gOqYw=="},{"kty":"oct","k":"doZBM+2vQtSDIC7EzjMp8Q==","kid":"m8uwqE02Sh2H1qG+OyEwXw=="},{"kty":"oct","k":"yFSfVILeQUOum8NvWExeYg==","kid":"yL7//o1XQUiqjgchRhDYLw=="},{"kty":"oct","k":"K7/wecqBRoWBC9r8cuncCw==","kid":"ZffGqSMjSIafYCSxNaP1lQ=="},{"kty":"oct","k":"oyTgY6jvQx2rYgtLQ6jhKw==","kid":"3OfkYqD6RLWjr48s57tQ3Q=="},{"kty":"oct","k":"uiDP9GS/RzqDUFJr3om25Q==","kid":"Ku98WaRgSjCWt3Hz7x/fLQ=="},{"kty":"oct","k":"1nzgJPYsRlamZOB/Qe71WA==","kid":"ATyst90kRIykRwEsSkW9DQ=="},{"kty":"oct","k":"tHYhxhQfSTa542wa6dPH0w==","kid":"38gjy3fXQRCBLS/VEqBOtg=="},{"kty":"oct","k":"eCaf5lILS3S1wjMMWIoDHg==","kid":"BRYslZeuSWqlpaTWoh3S+w=="},{"kty":"oct","k":"LNlu95euQiaNAKeLn8lOvg==","kid":"9HdcKxJgRMOuLya/cG9g/Q=="},{"kty":"oct","k":"M9deTZx/TZ2ZiGx49VwIUA==","kid":"Kj7oLSe6Qpmbwt+mcgjM5g=="},{"kty":"oct","k":"PEvREUWPQTiaBze9asY0MA==","kid":"DvseUGNqQze7aqC2EA817Q=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -167,12 +167,12 @@ https://ds-linear-abematv.akamaized.net/channel/mahjong/manifest.mpd
 
 #EXTINF:-1  tvg-id="shogi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png", 将棋チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ll6KgN/WRR6YV/BdM3hHGA==","kid":"91fOWua0T8ae7AoomvgkWg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/shogi/manifest.mpd
 
 #EXTINF:-1  tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png", SPORTSチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/zNnhztsRV2K4dPX7yJw1A==","kid":"wKU9nF0hSMyjYkLnMiPBtQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/zNnhztsRV2K4dPX7yJw1A==","kid":"wKU9nF0hSMyjYkLnMiPBtQ=="},{"kty":"oct","k":"a+EwKyJbQui1yiChoZW51g==","kid":"Fmwx/aUbRtW/Mpt/8o/2iA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/world-sports/manifest.mpd
 
 #EXTINF:-1  tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png", MOTOR SPORTチャンネル

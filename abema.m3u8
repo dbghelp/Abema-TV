@@ -97,7 +97,7 @@ https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SMHwRufrQaeFtf1laG25lw==","kid":"0n1AMeKaTj6fabjMtLzgUQ=="},{"kty":"oct","k":"ZwGFFmZRT3i7mKa0iSicUA==","kid":"1KGFdNrETQWEG4G1+wMuiQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZwGFFmZRT3i7mKa0iSicUA==","kid":"1KGFdNrETQWEG4G1+wMuiQ=="},{"kty":"oct","k":"9gSXiyQZSaaX9ZkIgmJRDg==","kid":"gY+/8srlRue+2zTc7D14xA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/special-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
@@ -112,7 +112,7 @@ https://ds-linear-abematv.akamaized.net/channel/news-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png", 韓国ドラマチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3a978aTZRaus91yl6VlbUQ==","kid":"xmGD/nfCSiaEOKAv8O7X4Q=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3a978aTZRaus91yl6VlbUQ==","kid":"xmGD/nfCSiaEOKAv8O7X4Q=="},{"kty":"oct","k":"tcaJsb+/QRCO1U8mrH4OjA==","kid":"iPvZM6GARDKZv65S5not3g=="},{"kty":"oct","k":"yOyS3VuBSaejN1ZbIbH1lg==","kid":"E5Z1p9WjQdmzn8SnaZFuJw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png", 韓国ドラマチャンネル2
@@ -142,17 +142,17 @@ https://ds-linear-abematv.akamaized.net/channel/asia-historical/manifest.mpd
 
 #EXTINF:-1  tvg-id="k-world" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png", K WORLDチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nPjTvAs5RkOS2U0Ht0OKTQ==","kid":"ct7AnqvuTv6/B5MfdBP5aQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cqh0kt25R86ZDoP66u+9jA==","kid":"Snl+yfH+RaiGg21wZxLCdg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/k-world/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png", ドラマ映画チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"P494LNAEThaPEEeX77vf9Q==","kid":"p2CnzrnMQMqVK9B6LxJlSA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"P494LNAEThaPEEeX77vf9Q==","kid":"p2CnzrnMQMqVK9B6LxJlSA=="},{"kty":"oct","k":"1T/cGJnWTSamqk7RmWTxEw==","kid":"pDV0QMC9QweLr2Y2JWrpkg=="},{"kty":"oct","k":"/wzpYgmYQhCTA3Lz+zEpfw==","kid":"bdeM9u7TRF+gwk4l9oeIbw=="},{"kty":"oct","k":"z0shWIovQRSuSWVBBIQwAw==","kid":"Z0wdeYxnSle5QP7520LnBg=="},{"kty":"oct","k":"gULljuKzS5Cculj3nhpYgw==","kid":"CoTClEY6STuWYCsEtmNh3w=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DppKcbg+Q76CPhafra2MRA==","kid":"vF8OoZiFR6+4zsQYJ9YbxQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DppKcbg+Q76CPhafra2MRA==","kid":"vF8OoZiFR6+4zsQYJ9YbxQ=="},{"kty":"oct","k":"lafQFkRhQcKi0nBQltJGFw==","kid":"sBKS5V76Q36gQKSdJup3Ag=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png", 麻雀チャンネル

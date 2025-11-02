@@ -87,7 +87,7 @@ https://ds-linear-abematv.akamaized.net/channel/tenipuri/manifest.mpd
 
 #EXTINF:-1  tvg-id="gintama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/gintama/logo.png", 銀魂チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/uuhIJdiQw+adQpqga/HQA==","kid":"8ajIE/dISO2NuTOMfKTfZg=="},{"kty":"oct","k":"uVgYcPGaTD2XwL9A7bovTw==","kid":"j7I6X8abRBmoA7wB6IcvSA=="},{"kty":"oct","k":"6WtTzs5iS5C6FKFYA4G+cQ==","kid":"Sf/+DCiWSieMSjopfn/Xpw=="},{"kty":"oct","k":"KEGn1XQTRo+JFWfkLpxjzA==","kid":"HSDJST2oQAWz/aw8D3TvCw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/uuhIJdiQw+adQpqga/HQA==","kid":"8ajIE/dISO2NuTOMfKTfZg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/gintama/manifest.mpd
 
 #EXTINF:-1  tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png", なつかしアニメ80's
@@ -162,7 +162,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-historical/manifest.mpd
 
 #EXTINF:-1  tvg-id="k-world" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png", K WORLDチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O1akC7eRTr22vSvnGTwZbQ==","kid":"VbTcCLPNT8SowPN21Tv0gQ=="},{"kty":"oct","k":"kW2bnVPlTlqIxTl4wckHcQ==","kid":"rYJJwlfmRBy3VshjgPvvjw=="},{"kty":"oct","k":"MBONxdd2QXSYARMQ6hgRbQ==","kid":"legAzC/hRPeeiFULzqrY2g=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kW2bnVPlTlqIxTl4wckHcQ==","kid":"rYJJwlfmRBy3VshjgPvvjw=="},{"kty":"oct","k":"MBONxdd2QXSYARMQ6hgRbQ==","kid":"legAzC/hRPeeiFULzqrY2g=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/k-world/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png", ドラマ映画チャンネル

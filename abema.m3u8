@@ -62,7 +62,7 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ON8MMh/5RPW6ioOuBJEjjQ==","kid":"tkjmB2wXTguAKGnAjcCkVA=="},{"kty":"oct","k":"IFP4f64EQFScGfwNFYRY2g==","kid":"ayCLArvKS0eDlvL2KIQmjw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ayyLL+TfQ4GQGR4xGhCo8A==","kid":"wGyPVtjhRx2n3gUl35XjJA=="},{"kty":"oct","k":"IFP4f64EQFScGfwNFYRY2g==","kid":"ayCLArvKS0eDlvL2KIQmjw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -77,7 +77,7 @@ https://ds-linear-abematv.akamaized.net/channel/pokemon-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png", ファミリーアニメ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QvH5pBDjSDeuW5zdbOCNJQ==","kid":"CaUP+P3URYCGA8xyfwN9sA=="},{"kty":"oct","k":"HrfJtTSTRTqiKZLTuHI9RA==","kid":"0D0IhDsdRRuTmrXgfTusgw=="},{"kty":"oct","k":"3tcfjKSxSa60f+mlI8xtOg==","kid":"Myak7lIvS1yJW01dmsnLEw=="},{"kty":"oct","k":"/BCgOkCHSHi5MiNYMQczlw==","kid":"op1smF/XS6euW9s0AJL+gw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3tcfjKSxSa60f+mlI8xtOg==","kid":"Myak7lIvS1yJW01dmsnLEw=="},{"kty":"oct","k":"HrfJtTSTRTqiKZLTuHI9RA==","kid":"0D0IhDsdRRuTmrXgfTusgw=="},{"kty":"oct","k":"QvH5pBDjSDeuW5zdbOCNJQ==","kid":"CaUP+P3URYCGA8xyfwN9sA=="},{"kty":"oct","k":"/BCgOkCHSHi5MiNYMQczlw==","kid":"op1smF/XS6euW9s0AJL+gw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/family-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png", ファミリーアニメ２

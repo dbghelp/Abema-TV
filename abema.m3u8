@@ -57,7 +57,7 @@ https://ds-linear-abematv.akamaized.net/channel/anime-live/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FdMa2R4cQWGQphJ9SCdAeg==","kid":"XLBecWDmQtyKlfALg3VStg=="},{"kty":"oct","k":"x9+7adc3Tf6rhOhjDjeMZw==","kid":"JQ+zLnuwTouXhpznJUfgFA=="},{"kty":"oct","k":"LVRkE0eqQVKdAnBeQeSkjQ==","kid":"uvRfah92RlmWNnemdZDdwA=="},{"kty":"oct","k":"hY3els+SSJyDg3PxRt2sAA==","kid":"v8bHCPDYTtGGvEg+7sOnvg=="},{"kty":"oct","k":"AkJuuua0TdanHESezx3pEg==","kid":"gUlFnWUERdKNYB9nsidmXQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FdMa2R4cQWGQphJ9SCdAeg==","kid":"XLBecWDmQtyKlfALg3VStg=="},{"kty":"oct","k":"w7imc04VRdyVLG8XPZ4erw==","kid":"JxyTiFxjRLKcx6ZqGrZvCg=="},{"kty":"oct","k":"rkrSKw2zR8GIdOlOxOIr0w==","kid":"+E0H7dOiRhK75lZSKn0IOQ=="},{"kty":"oct","k":"jOPtC1GTTCKmOF4K48QVUg==","kid":"8YHQkhjJS2GTyp5PiJTkTQ=="},{"kty":"oct","k":"F9Lx5axZSsmKJWxh18CBag==","kid":"8auGf1kNRuSsyZOFgVdKMw=="},{"kty":"oct","k":"xi6cj2Y2QvWzBZ4xS/ONKQ==","kid":"3sP3B/SURg6Z09KG7wx+dQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -72,7 +72,7 @@ https://ds-linear-abematv.akamaized.net/channel/pokemon-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png", ファミリーアニメ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I/STDzRXRTCLuxweomen4A==","kid":"MHIbIJPMRCC0lv+nKuF0bQ=="},{"kty":"oct","k":"GFJoZsVBSsC77iRuBv7toQ==","kid":"mQoCs2nLTtiraMQ6Y06HVA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GFJoZsVBSsC77iRuBv7toQ==","kid":"mQoCs2nLTtiraMQ6Y06HVA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/family-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="family-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png", ファミリーアニメ２
@@ -132,7 +132,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png", 韓国ドラマチャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMAO2BobTOe22MFKJpem0w==","kid":"EI6JpZq2TSq3kn/SgbdRog=="},{"kty":"oct","k":"L1dMXsgqRxKBSMvSmKxUzw==","kid":"V3vOigNhRHGOKY0GVZ287w=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L1dMXsgqRxKBSMvSmKxUzw==","kid":"V3vOigNhRHGOKY0GVZ287w=="},{"kty":"oct","k":"aMAO2BobTOe22MFKJpem0w==","kid":"EI6JpZq2TSq3kn/SgbdRog=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="chinese-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png", 中国ドラマチャンネル
@@ -152,17 +152,17 @@ https://ds-linear-abematv.akamaized.net/channel/asia-loveromance/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-historical" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png", 韓国時代劇
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d+qgncY+QTGIROQNd9O3mA==","kid":"m5ApI2pRQhChynVpGiubtg=="},{"kty":"oct","k":"SZaIjBQKRky8fEm5Xmi6DQ==","kid":"7rqK0S4wR5+1BxBALF2Cmw=="},{"kty":"oct","k":"YJDHNbl4S96Ilx+T3KXIfg==","kid":"mWGssZzlSJ2S4LVHDzRUiw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SZaIjBQKRky8fEm5Xmi6DQ==","kid":"7rqK0S4wR5+1BxBALF2Cmw=="},{"kty":"oct","k":"YJDHNbl4S96Ilx+T3KXIfg==","kid":"mWGssZzlSJ2S4LVHDzRUiw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-historical/manifest.mpd
 
 #EXTINF:-1  tvg-id="k-world" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png", K WORLDチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QO20u1vHRKil0gH3S3GgpA==","kid":"zLrPT5OBSiO/g9HQCvh/Gw=="},{"kty":"oct","k":"dIuZDoZyTDG4tXM/0oQa6w==","kid":"oIhB5gd4QoCFC614qqepdQ=="},{"kty":"oct","k":"ezxMvKSvSQWne/zBvWGolA==","kid":"25WTAr54TKSY7uMKd7LFWg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnnkUdWmSMKkLPx4SYqMGw==","kid":"yWtmajZyRUaeM0TNDNrYhw=="},{"kty":"oct","k":"dIuZDoZyTDG4tXM/0oQa6w==","kid":"oIhB5gd4QoCFC614qqepdQ=="},{"kty":"oct","k":"ezxMvKSvSQWne/zBvWGolA==","kid":"25WTAr54TKSY7uMKd7LFWg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/k-world/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png", ドラマ映画チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"inWPRQLFRP+X3Ybs+rPoDA==","kid":"urCje9QiTYC2wxiDjmuHnQ=="},{"kty":"oct","k":"XHCmVm14QRa9sKdZr0k+GA==","kid":"6IMsWbU/QMeaRU1hIJfKww=="},{"kty":"oct","k":"jP3eFauvRDCgyC7c0to/Aw==","kid":"nfo0TASITRunZxlmiXM/qg=="},{"kty":"oct","k":"ac6Z6Zv5R6qMkBq7AAgH+Q==","kid":"JI5RoLybSteZ64yuE4Uh3Q=="},{"kty":"oct","k":"ep/sVhcoSwCqEuXhtniwiQ==","kid":"FBznTbRES7y/wDzl02UVYw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XHCmVm14QRa9sKdZr0k+GA==","kid":"6IMsWbU/QMeaRU1hIJfKww=="},{"kty":"oct","k":"jP3eFauvRDCgyC7c0to/Aw==","kid":"nfo0TASITRunZxlmiXM/qg=="},{"kty":"oct","k":"ac6Z6Zv5R6qMkBq7AAgH+Q==","kid":"JI5RoLybSteZ64yuE4Uh3Q=="},{"kty":"oct","k":"ep/sVhcoSwCqEuXhtniwiQ==","kid":"FBznTbRES7y/wDzl02UVYw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2

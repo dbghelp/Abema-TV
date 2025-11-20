@@ -2,7 +2,7 @@
 
 #EXTINF:-1  tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png", ABEMA アニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kmB7tRMQTQi22rnfDkpJaQ==","kid":"leuWiV0CRHmZu1nmWvTMIw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kmB7tRMQTQi22rnfDkpJaQ==","kid":"leuWiV0CRHmZu1nmWvTMIw=="},{"kty":"oct","k":"Jfbk0zh7TUC/YTtlUWOSHw==","kid":"gHKG0TNbRKa1l5i70FkOTg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png", ABEMA アニメチャンネル2
@@ -47,7 +47,7 @@ https://ds-linear-abematv.akamaized.net/channel/dailylife-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="late-night-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png", 深夜アニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jwcLBYivToaelmoTB3Hvzg==","kid":"GIUQCk/1S0WALqi0+Gr/6Q=="},{"kty":"oct","k":"dCwYngRxRmmQb9IZqDcfUw==","kid":"0q82h1DoSuCM2qID/Yx17g=="},{"kty":"oct","k":"ykhGencdQ623B85P5f+HNw==","kid":"T9qDEcP1Rx6XxSYeQQ9FNA=="},{"kty":"oct","k":"8r2PTC6iRIy+mNjRpw7U8w==","kid":"nlNjgLzTRXG+eaeo+9aBcg=="},{"kty":"oct","k":"c51wvZumS8KQKEThvBq0oA==","kid":"AQbaBZUKSJiAHjol/iTsYA=="},{"kty":"oct","k":"MZUNpGUuTJmPmZnB4P6Acw==","kid":"KZDAxCPHRj66sSfGOqzxNA=="},{"kty":"oct","k":"zQP7KPwwR9alsifbe/wdXw==","kid":"KM4ihzlmQg6bmm1Dssxm+w=="},{"kty":"oct","k":"arBhOjZTSCiUUx7f5GjUmw==","kid":"p5GSnIoSRNOO+bUp0FATiw=="},{"kty":"oct","k":"5z1BoqO9TBKWGaA9MyOkjg==","kid":"f8N6OO22S1aIEwkSjjvLmQ=="},{"kty":"oct","k":"ueLJN4WeRMCDyrvWfTWnPw==","kid":"WsPPvvurRPaml+dXUMuY7A=="},{"kty":"oct","k":"CdnWGv4cTNCk44pfil/gdQ==","kid":"gY3H5QZPRWiK4d8KpTyKtg=="},{"kty":"oct","k":"XvmwqETOTJydZehhDf8Wvw==","kid":"S76dBo9sTWugGVh2tonjEQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jwcLBYivToaelmoTB3Hvzg==","kid":"GIUQCk/1S0WALqi0+Gr/6Q=="},{"kty":"oct","k":"kmSNjaq0TYOaZAeiOw4XPw==","kid":"iANAT1pFSpClSU/kSQf3FA=="},{"kty":"oct","k":"Wle9gXGPQD2kQjTNMP/jkA==","kid":"70lYmC30RvS5C2XudAmVTA=="},{"kty":"oct","k":"yW+YC+9eQzCoChZL8gJ8EA==","kid":"LoEVk5HtTby3vsdHeZnczw=="},{"kty":"oct","k":"vYp+UtznSW2mX2gDAQgOXw==","kid":"5uPpWKoQQJOe7NdI32x0Dg=="},{"kty":"oct","k":"rdf4j4F6SkKlU1MW6BHxoQ==","kid":"Z84Y4JrBQf+5cWKKeIDUBw=="},{"kty":"oct","k":"BooaQn0XSfKAaaEtWTHoUg==","kid":"mWXToyUASe6kX1KLOcVF0g=="},{"kty":"oct","k":"Re9RDvzIRXWXlaW9HAX63A==","kid":"uT7CuPC8ROOwAkzSlxyY3A=="},{"kty":"oct","k":"3jHfveR5QZ29zBPQHUQ8BQ==","kid":"SLWiVVJwQDiOqk8mPryWug=="},{"kty":"oct","k":"cICBOMJkQSWM3GQU9KMIzQ==","kid":"LrnFKgnnS4+AZkeigf4AnA=="},{"kty":"oct","k":"haFwgxhaRt2gKzUOoNecIg==","kid":"P3j2R34BTZWFomE1fddzTg=="},{"kty":"oct","k":"KS1dQf+eQAu3ARvHuHwJdA==","kid":"aSj5996MTkyDC+xABKsPag=="},{"kty":"oct","k":"RsnHmDNXREqWnG/yNHUqTA==","kid":"b8IiY1qjSl2t9mT1S2FYyg=="},{"kty":"oct","k":"Fn1SCHV4QbCFw8Cq/12GYQ==","kid":"CjAIuqCLQqCvQFwuejuzCQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/late-night-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png", アニメLIVEチャンネル
@@ -137,7 +137,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="chinese-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png", 中国ドラマチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PbV/OwqCSqik7B+oeSr4Lg==","kid":"IPWa9Nf5RWa3yJHnZIlPIg=="},{"kty":"oct","k":"534RZjUqQVm0HGGbLYSyGA==","kid":"WFbiOMBjSX+HQkjyhBycxA=="},{"kty":"oct","k":"AQJKW220SB2/gNyAL52GyQ==","kid":"38t/MazoTIOMcqyECcbUiw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PbV/OwqCSqik7B+oeSr4Lg==","kid":"IPWa9Nf5RWa3yJHnZIlPIg=="},{"kty":"oct","k":"8Muh3CmCT+mH53dCu1/Xug==","kid":"kFU/dK63TQiLVSPVwKlKIQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/chinese-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-love-comedy" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-love-comedy/logo.png", 韓国ラブコメディ

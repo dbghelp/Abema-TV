@@ -2,7 +2,7 @@
 
 #EXTINF:-1  tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png", ABEMA アニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0fVb5y5nRLKE7uHZmFfaCQ==","kid":"CUD6MTIVQjCeV+Za/AdkBg=="},{"kty":"oct","k":"RM9ACJToS9u5WyLgTWZhcA==","kid":"XjvW6sU4TTKwaNi4LZK+8A=="},{"kty":"oct","k":"PWVz82OmQfSDY5OvQoZqVw==","kid":"d4qC9cCPTB+x0L8oFvBX3A=="},{"kty":"oct","k":"ZeT3VB8wQRSBIC1i1n9CBw==","kid":"NLXfshuXTXe7my2gbizcdA=="},{"kty":"oct","k":"sWUFnwC6S/2elDStf+c9Ew==","kid":"HZEG9ye8SUKDUGziMbSPJg=="},{"kty":"oct","k":"Jfbk0zh7TUC/YTtlUWOSHw==","kid":"gHKG0TNbRKa1l5i70FkOTg=="},{"kty":"oct","k":"Z6Bwye6FSOCU9JsUf3isPw==","kid":"n5rMjRF9QWCPCucOTES6Tw=="},{"kty":"oct","k":"hLbDtQieQOi80/yJAvAqJQ==","kid":"jcHEBifbSHWasIzGYFx0PA=="},{"kty":"oct","k":"epc2n2DNTkOMgTYYrYH5fA==","kid":"edGbaOKETdyGb7Ql9oqm1A=="},{"kty":"oct","k":"M0UDDC0wR8GMqP+hyslUqg==","kid":"7m9jkBaGQmO/byXyZ9mw1A=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZeT3VB8wQRSBIC1i1n9CBw==","kid":"NLXfshuXTXe7my2gbizcdA=="},{"kty":"oct","k":"RM9ACJToS9u5WyLgTWZhcA==","kid":"XjvW6sU4TTKwaNi4LZK+8A=="},{"kty":"oct","k":"PWVz82OmQfSDY5OvQoZqVw==","kid":"d4qC9cCPTB+x0L8oFvBX3A=="},{"kty":"oct","k":"0fVb5y5nRLKE7uHZmFfaCQ==","kid":"CUD6MTIVQjCeV+Za/AdkBg=="},{"kty":"oct","k":"sWUFnwC6S/2elDStf+c9Ew==","kid":"HZEG9ye8SUKDUGziMbSPJg=="},{"kty":"oct","k":"Jfbk0zh7TUC/YTtlUWOSHw==","kid":"gHKG0TNbRKa1l5i70FkOTg=="},{"kty":"oct","k":"Z6Bwye6FSOCU9JsUf3isPw==","kid":"n5rMjRF9QWCPCucOTES6Tw=="},{"kty":"oct","k":"hLbDtQieQOi80/yJAvAqJQ==","kid":"jcHEBifbSHWasIzGYFx0PA=="},{"kty":"oct","k":"epc2n2DNTkOMgTYYrYH5fA==","kid":"edGbaOKETdyGb7Ql9oqm1A=="},{"kty":"oct","k":"M0UDDC0wR8GMqP+hyslUqg==","kid":"7m9jkBaGQmO/byXyZ9mw1A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-anime/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png", ABEMA アニメチャンネル2
@@ -72,7 +72,7 @@ https://ds-linear-abematv.akamaized.net/channel/chibimaruko/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IqIJWOA6SOGPY9FbtbOb8A==","kid":"LlwUcdz1SL+3rOkXL70/CA=="},{"kty":"oct","k":"Uw4n3tA1SBKnwjVz87VXOA==","kid":"8+d6uk60Tk2PayUPOOETTA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BfG/uVMSSC6wAAADn4pk5g==","kid":"NMZLL734QDiVc2HhPxs9OA=="},{"kty":"oct","k":"Uw4n3tA1SBKnwjVz87VXOA==","kid":"8+d6uk60Tk2PayUPOOETTA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -142,7 +142,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="chinese-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png", 中国ドラマチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/6Ol+QEwRlayItZ9evhPWQ==","kid":"T0ASo+3UTsC1kdiW7CtP8g=="},{"kty":"oct","k":"vEH+d4BSQVanuMGEHfYllw==","kid":"V5UJZ/xfRauRrXZCOaTDKQ=="},{"kty":"oct","k":"KTJ2fP/1SeShIclfsAnFdA==","kid":"Q3CGUCufQQWwHA4iSPrMZg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vEH+d4BSQVanuMGEHfYllw==","kid":"V5UJZ/xfRauRrXZCOaTDKQ=="},{"kty":"oct","k":"/6Ol+QEwRlayItZ9evhPWQ==","kid":"T0ASo+3UTsC1kdiW7CtP8g=="},{"kty":"oct","k":"KTJ2fP/1SeShIclfsAnFdA==","kid":"Q3CGUCufQQWwHA4iSPrMZg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/chinese-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-love-comedy" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-love-comedy/logo.png", 韓国ラブコメディ

@@ -72,7 +72,7 @@ https://ds-linear-abematv.akamaized.net/channel/chibimaruko/manifest.mpd
 
 #EXTINF:-1  tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png", あたしンちチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"z3j4z2rZRZqIaz+/A0YIuQ==","kid":"RN4vbYtxT8uLHVveKCl66A=="},{"kty":"oct","k":"tfUUPTx0S320DBhkVRAqFg==","kid":"7Abp/cISTsqZAGzFAdewyw=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"thIwBgmDTEWFnp2bznCjeg==","kid":"OytfjzpEQ+WokGTU0JUqmA=="},{"kty":"oct","k":"tfUUPTx0S320DBhkVRAqFg==","kid":"7Abp/cISTsqZAGzFAdewyw=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/atashinchi/manifest.mpd
 
 #EXTINF:-1  tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png", アニメ ポケットモンスターチャンネル1
@@ -112,7 +112,7 @@ https://ds-linear-abematv.akamaized.net/channel/00s-anime-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png", ABEMA SPECIALチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bWHOvNV1SSGDQU6ddQ5Tbw==","kid":"b0CLzA/qRuuFGH64Pla8rg=="},{"kty":"oct","k":"WKLON1z8RS+kWhIO5/nAlQ==","kid":"HygWUnfUTJenuEMVFqdJUg=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WKLON1z8RS+kWhIO5/nAlQ==","kid":"HygWUnfUTJenuEMVFqdJUg=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/abema-special/manifest.mpd
 
 #EXTINF:-1  tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png", ABEMA SPECIAL 2チャンネル
@@ -132,12 +132,12 @@ https://ds-linear-abematv.akamaized.net/channel/news-plus/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png", 韓国ドラマチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y9JDuGlrRGqnNOVxGDI0OQ==","kid":"O+BeELA4R+iejcWnZMHjag=="},{"kty":"oct","k":"KyQ+pAuQR/6nT75Qde2Rpg==","kid":"6qF9tl0/Ttaq2F6BO3Wo1A=="},{"kty":"oct","k":"sQWk28XxQ821VUUmuuZ4Hw==","kid":"t/CeaJfARgWNzBEt6guNiA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y9JDuGlrRGqnNOVxGDI0OQ==","kid":"O+BeELA4R+iejcWnZMHjag=="},{"kty":"oct","k":"sQWk28XxQ821VUUmuuZ4Hw==","kid":"t/CeaJfARgWNzBEt6guNiA=="},{"kty":"oct","k":"KyQ+pAuQR/6nT75Qde2Rpg==","kid":"6qF9tl0/Ttaq2F6BO3Wo1A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png", 韓国ドラマチャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mIRVGynZSwq2G6kwNZbRyg==","kid":"Mbk5i6WSS9aSDxSJM2FjzA=="},{"kty":"oct","k":"HRBc0aMCQouzOYnFXheWuQ==","kid":"8441FLfqSy2fvn5gln91wQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nB5OdjKOT6mhQzBfAFkkxg==","kid":"AsXdGFB7Sym1NfR0xaOFeA=="},{"kty":"oct","k":"HRBc0aMCQouzOYnFXheWuQ==","kid":"8441FLfqSy2fvn5gln91wQ=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="chinese-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png", 中国ドラマチャンネル
@@ -152,7 +152,7 @@ https://ds-linear-abematv.akamaized.net/channel/asia-love-comedy/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-loveromance" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-loveromance/logo.png", 韓国ラブロマンス
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/ABytSbYQQ+gCQAUtTb/jQ==","kid":"Pxhw8/JlR/mEukViP0ew8A=="},{"kty":"oct","k":"daZy9jxfTVSDxmLNxFSqQg==","kid":"SwnRLZVCQ1SRNOoitimqow=="},{"kty":"oct","k":"EkptYeYuSHCjXsQsMnV5MA==","kid":"VLChghAfR7iXZqIyd8Ldbw=="},{"kty":"oct","k":"hqhZ9fkXS42DAzH93AyPmw==","kid":"8HVb6SCATOSiilLvIMRolw=="},{"kty":"oct","k":"WMtE+BMWRxG3+8VIqeKolw==","kid":"tAdXnpheQ5KlO3SmX1unYw=="},{"kty":"oct","k":"s5Z7chDCTrCt5oHW6RlJ3A==","kid":"tWBOeYqETsC1M5CDf6BwmQ=="},{"kty":"oct","k":"u5K9ZDRKR7efajo0TotdHw==","kid":"ef0P9mqKRP66q1MVtZJJvQ=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u5K9ZDRKR7efajo0TotdHw==","kid":"ef0P9mqKRP66q1MVtZJJvQ=="},{"kty":"oct","k":"daZy9jxfTVSDxmLNxFSqQg==","kid":"SwnRLZVCQ1SRNOoitimqow=="},{"kty":"oct","k":"EkptYeYuSHCjXsQsMnV5MA==","kid":"VLChghAfR7iXZqIyd8Ldbw=="},{"kty":"oct","k":"hqhZ9fkXS42DAzH93AyPmw==","kid":"8HVb6SCATOSiilLvIMRolw=="},{"kty":"oct","k":"WMtE+BMWRxG3+8VIqeKolw==","kid":"tAdXnpheQ5KlO3SmX1unYw=="},{"kty":"oct","k":"s5Z7chDCTrCt5oHW6RlJ3A==","kid":"tWBOeYqETsC1M5CDf6BwmQ=="},{"kty":"oct","k":"/ABytSbYQQ+gCQAUtTb/jQ==","kid":"Pxhw8/JlR/mEukViP0ew8A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/asia-loveromance/manifest.mpd
 
 #EXTINF:-1  tvg-id="asia-historical" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png", 韓国時代劇
@@ -172,7 +172,7 @@ https://ds-linear-abematv.akamaized.net/channel/drama/manifest.mpd
 
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gGrUGci7R+GcIrdaLST3eQ==","kid":"2/0kP4dORqSdqisCDXFl1Q=="},{"kty":"oct","k":"xHp+W/3DRQ+Zfbh2PKb7TQ==","kid":"84Wf9EUHTnWTPZQjnytQCA=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xHp+W/3DRQ+Zfbh2PKb7TQ==","kid":"84Wf9EUHTnWTPZQjnytQCA=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/drama-2/manifest.mpd
 
 #EXTINF:-1  tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png", 麻雀チャンネル
@@ -187,7 +187,7 @@ https://ds-linear-abematv.akamaized.net/channel/shogi/manifest.mpd
 
 #EXTINF:-1  tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png", SPORTSチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gvMW1z5TDafr7Id/fPtqg==","kid":"cv7wlAG5R0+w0zqKEv5BsA=="},{"kty":"oct","k":"cfGhJ5cwSUKdOIIyM0TC2w==","kid":"Beqrb2ADQ+2Ea93lGpwJ1A=="}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cfGhJ5cwSUKdOIIyM0TC2w==","kid":"Beqrb2ADQ+2Ea93lGpwJ1A=="}],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/world-sports/manifest.mpd
 
 #EXTINF:-1  tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png", MOTOR SPORTチャンネル

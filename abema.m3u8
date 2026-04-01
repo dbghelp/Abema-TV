@@ -25,26 +25,6 @@ https://ds-linear-abematv.akamaized.net/channel/special-plus-7/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/anime-special-2/manifest.mpd
 
-#EXTINF:-1  tvg-id="animejapan-red" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-red/logo.png", AnimeJapan REDステージチャンネル
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
-https://ds-linear-abematv.akamaized.net/channel/animejapan-red/manifest.mpd
-
-#EXTINF:-1  tvg-id="animejapan-green" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-green/logo.png", AnimeJapan GREENステージチャンネル
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
-https://ds-linear-abematv.akamaized.net/channel/animejapan-green/manifest.mpd
-
-#EXTINF:-1  tvg-id="animejapan-blue" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-blue/logo.png", AnimeJapan BLUEステージチャンネル
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
-https://ds-linear-abematv.akamaized.net/channel/animejapan-blue/manifest.mpd
-
-#EXTINF:-1  tvg-id="animejapan-white" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-white/logo.png", AnimeJapan WHITEステージチャンネル
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
-https://ds-linear-abematv.akamaized.net/channel/animejapan-white/manifest.mpd
-
 #EXTINF:-1  tvg-id="isekai-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png", 異世界・ファンタジーアニメチャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
@@ -239,11 +219,6 @@ https://ds-linear-abematv.akamaized.net/channel/shogi/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
 https://ds-linear-abematv.akamaized.net/channel/world-sports/manifest.mpd
-
-#EXTINF:-1  tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png", SPORTS LIVE1 チャンネル
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
-https://ds-linear-abematv.akamaized.net/channel/world-sports-1/manifest.mpd
 
 #EXTINF:-1  tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png", 格闘チャンネル
 #KODIPROP:inputstream.adaptive.license_type=clearkey

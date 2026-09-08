@@ -132,7 +132,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8
 #EXTINF:-1  tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png", ドラマ映画チャンネル2
 https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
 
-#EXTINF:-1  tvg-id="drama-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-3/logo.png", ドラマ映画チャンネル3
+#EXTINF:-1  tvg-id="drama-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-3/logo.png", 海外ドラマ映画チャンネル1
 https://ds-linear-abematv.akamaized.net/preview/channel/drama-3/playlist.m3u8
 
 #EXTINF:-1  tvg-id="drama-4" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-4/logo.png", 国内ドラマチャンネル
@@ -149,6 +149,9 @@ https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3
 
 #EXTINF:-1  tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png", MOTOR SPORTチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
+
+#EXTINF:-1  tvg-id="sumo" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png", 大相撲チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
 
 #EXTINF:-1  tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png", 格闘チャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
